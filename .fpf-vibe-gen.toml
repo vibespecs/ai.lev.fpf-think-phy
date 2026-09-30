@@ -1,0 +1,10 @@
+# Ownership marker of fpf-vibe-gen: this package is generated; do not edit by hand.
+generator = "fpf-vibe-gen 0.1.0"
+package = "fpf-think-phy"
+version = "2026.929.0"
+upstream_url = "https://github.com/ailev/FPF"
+upstream_commit = "d131d30a44e78523e78da9d22aefd83e59f5e4a4"
+upstream_date = "2026-09-29T12:54:08+03:00"
+source_paths = ["Foundational Thinking DPF Suite/PHYSICAL-THINKING-DPF.md"]
+files = 33
+tree_sha256 = "4d32f077baed5428aa88c76426411d5b32470856a0f32fe764a8cfb073b20bff"

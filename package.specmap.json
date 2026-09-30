@@ -1,0 +1,2592 @@
+{
+  "code_items": [],
+  "edges": [],
+  "schema": 3,
+  "spec_units": [
+    {
+      "anchor": "root",
+      "content_hash": "sha256:3ecce8d2f0fe0304d32837fdd88ec9b45ad9b9a600057e581f913bc6384f1226",
+      "doc_path": "contract/PHY-1",
+      "file": "vibevm/vibespecs/contract/PHY-1.md",
+      "heading": "PHY.1 - Construct Physical Similarity Across Changed Conditions",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-1#root"
+    },
+    {
+      "anchor": "problem-frame",
+      "content_hash": "sha256:a8124f6904f1f7ff42ccbb511caf35d13e83000429808b7ba35dae30b7ccdd9c",
+      "doc_path": "contract/PHY-1",
+      "file": "vibevm/vibespecs/contract/PHY-1.md",
+      "heading": "PHY.1:1 - Problem frame",
+      "line": 11,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-1#problem-frame"
+    },
+    {
+      "anchor": "problem",
+      "content_hash": "sha256:85d207d89c87972aeabb270225bb861476f4b7ed3cff33d4a779c59cbfa109a7",
+      "doc_path": "contract/PHY-1",
+      "file": "vibevm/vibespecs/contract/PHY-1.md",
+      "heading": "PHY.1:2 - Problem",
+      "line": 21,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-1#problem"
+    },
+    {
+      "anchor": "forces",
+      "content_hash": "sha256:3ba6af11a68316bc5badaad4ca58895fb26127745220a25723ef3622028176d0",
+      "doc_path": "contract/PHY-1",
+      "file": "vibevm/vibespecs/contract/PHY-1.md",
+      "heading": "PHY.1:3 - Forces",
+      "line": 27,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-1#forces"
+    },
+    {
+      "anchor": "solution",
+      "content_hash": "sha256:4569d84f486335faf7084fa7bcc764931661132f696cdef9b56d1ecb476b3628",
+      "doc_path": "contract/PHY-1",
+      "file": "vibevm/vibespecs/contract/PHY-1.md",
+      "heading": "PHY.1:4 - Solution",
+      "line": 37,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-1#solution"
+    },
+    {
+      "anchor": "choose-the-physical-result-and-the-proposed-change",
+      "content_hash": "sha256:c3f0632b4be3aee374594bc2c5e8100203190dac99ac5bcc99627a947df6babf",
+      "doc_path": "contract/PHY-1",
+      "file": "vibevm/vibespecs/contract/PHY-1.md",
+      "heading": "PHY.1:4.1 - Choose the physical result and the proposed change",
+      "line": 41,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-1#choose-the-physical-result-and-the-proposed-change"
+    },
+    {
+      "anchor": "recover-the-interactions-that-can-change-the-requested-result",
+      "content_hash": "sha256:00db441717032c234bd2eab7791695e87de17d903b7111f2134105b43c74bed3",
+      "doc_path": "contract/PHY-1",
+      "file": "vibevm/vibespecs/contract/PHY-1.md",
+      "heading": "PHY.1:4.2 - Recover the interactions that can change the requested result",
+      "line": 51,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-1#recover-the-interactions-that-can-change-the-requested-result"
+    },
+    {
+      "anchor": "express-the-comparison-through-meaningful-scales",
+      "content_hash": "sha256:5b61069ec51a40ce8ff693a1890a9e8bae16804af84f77d19d820864516cf320",
+      "doc_path": "contract/PHY-1",
+      "file": "vibevm/vibespecs/contract/PHY-1.md",
+      "heading": "PHY.1:4.3 - Express the comparison through meaningful scales",
+      "line": 61,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-1#express-the-comparison-through-meaningful-scales"
+    },
+    {
+      "anchor": "construct-settings-that-supply-the-needed-correspondence",
+      "content_hash": "sha256:58fbbe3ed49b366fce619e4d71ad14b786290fe874ee5f3db49e83473c614188",
+      "doc_path": "contract/PHY-1",
+      "file": "vibevm/vibespecs/contract/PHY-1.md",
+      "heading": "PHY.1:4.4 - Construct settings that supply the needed correspondence",
+      "line": 75,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-1#construct-settings-that-supply-the-needed-correspondence"
+    },
+    {
+      "anchor": "resolve-a-mismatch-by-its-effect-on-the-answer",
+      "content_hash": "sha256:400d60322bf4968f5c2a2fcf8a814d8b7304c92a9e8785ca6f52d52e063a2bb5",
+      "doc_path": "contract/PHY-1",
+      "file": "vibevm/vibespecs/contract/PHY-1.md",
+      "heading": "PHY.1:4.5 - Resolve a mismatch by its effect on the answer",
+      "line": 85,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-1#resolve-a-mismatch-by-its-effect-on-the-answer"
+    },
+    {
+      "anchor": "use-the-comparison-and-follow-a-changed-question",
+      "content_hash": "sha256:d23fe5d587382362438ab23b5cef043265f958090fb94e37f24863115684cdfa",
+      "doc_path": "contract/PHY-1",
+      "file": "vibevm/vibespecs/contract/PHY-1.md",
+      "heading": "PHY.1:4.6 - Use the comparison and follow a changed question",
+      "line": 95,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-1#use-the-comparison-and-follow-a-changed-question"
+    },
+    {
+      "anchor": "conformance-checklist",
+      "content_hash": "sha256:a295aeab13b7a88ea1785513a54b0b0c46583836fea0aa527609bb175bdcc2ec",
+      "doc_path": "contract/PHY-1",
+      "file": "vibevm/vibespecs/contract/PHY-1.md",
+      "heading": "PHY.1:7 - Conformance Checklist",
+      "line": 105,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-1#conformance-checklist"
+    },
+    {
+      "anchor": "consequences",
+      "content_hash": "sha256:e7abeefd5dd659982da175c752a16b3b2461353a4710eca62c843bf22ef509f7",
+      "doc_path": "contract/PHY-1",
+      "file": "vibevm/vibespecs/contract/PHY-1.md",
+      "heading": "PHY.1:9 - Consequences",
+      "line": 115,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-1#consequences"
+    },
+    {
+      "anchor": "relations",
+      "content_hash": "sha256:2d7ecd5e98dbac14a03bda157e89da954c0fe0c961978d7decdbb339cc8e2770",
+      "doc_path": "contract/PHY-1",
+      "file": "vibevm/vibespecs/contract/PHY-1.md",
+      "heading": "PHY.1:12 - Relations",
+      "line": 121,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-1#relations"
+    },
+    {
+      "anchor": "dependencies",
+      "content_hash": "sha256:11101c18fa652bfa3a8288b2c799db11536c836c0c870ab9673781a4c301f284",
+      "doc_path": "contract/PHY-1",
+      "file": "vibevm/vibespecs/contract/PHY-1.md",
+      "heading": "Dependencies",
+      "line": 130,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-1#dependencies"
+    },
+    {
+      "anchor": "DEPENDS-ON",
+      "content_hash": "sha256:ad023693b803d13335940405a45aa37d88e022a52bb7891014b8443b1e394c44",
+      "doc_path": "contract/PHY-1",
+      "file": "vibevm/vibespecs/contract/PHY-1.md",
+      "heading": "Dependencies (as published): spec://ai.lev/fpf-think-phy/contract/PHY-5#root for consequential omitted effects; mathematical methods for the resulting comparison. @status:spec/done",
+      "line": 132,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-1#DEPENDS-ON"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:fbd4215d2de14db1a1cc5eb07ba1f2e238b992ad8f9781041674076fe2565542",
+      "doc_path": "contract/PHY-10",
+      "file": "vibevm/vibespecs/contract/PHY-10.md",
+      "heading": "PHY.10 - Construct a Physical Test That Separates Rival Accounts",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-10#root"
+    },
+    {
+      "anchor": "problem-frame",
+      "content_hash": "sha256:9d08191cfd25d3910f4f25fa45fc205771495f0e51660d9a7d2d1679534830c8",
+      "doc_path": "contract/PHY-10",
+      "file": "vibevm/vibespecs/contract/PHY-10.md",
+      "heading": "PHY.10:1 - Problem frame",
+      "line": 11,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-10#problem-frame"
+    },
+    {
+      "anchor": "problem",
+      "content_hash": "sha256:429aa82f4dd1421546bbb73a98f6a0e60910565dd9345f3c73672d31f7c46393",
+      "doc_path": "contract/PHY-10",
+      "file": "vibevm/vibespecs/contract/PHY-10.md",
+      "heading": "PHY.10:2 - Problem",
+      "line": 23,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-10#problem"
+    },
+    {
+      "anchor": "forces",
+      "content_hash": "sha256:b06fd919b9a68355c0b54fb2c5820b0dcdf8458be91ddcb7eec1a897f73df1e1",
+      "doc_path": "contract/PHY-10",
+      "file": "vibevm/vibespecs/contract/PHY-10.md",
+      "heading": "PHY.10:3 - Forces",
+      "line": 31,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-10#forces"
+    },
+    {
+      "anchor": "solution",
+      "content_hash": "sha256:757ff1a4b56a1c70497b426977f36102ed31d65680260401047d339bc3d32de8",
+      "doc_path": "contract/PHY-10",
+      "file": "vibevm/vibespecs/contract/PHY-10.md",
+      "heading": "PHY.10:4 - Solution",
+      "line": 42,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-10#solution"
+    },
+    {
+      "anchor": "state-which-physical-disagreement-matters",
+      "content_hash": "sha256:26dca50b6260aa104889b34fabf6291f76345f3f664776b584d3d1d35c34fa3a",
+      "doc_path": "contract/PHY-10",
+      "file": "vibevm/vibespecs/contract/PHY-10.md",
+      "heading": "PHY.10:4.1 - State which physical disagreement matters",
+      "line": 46,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-10#state-which-physical-disagreement-matters"
+    },
+    {
+      "anchor": "find-a-physical-change-that-makes-the-accounts-diverge",
+      "content_hash": "sha256:9db86ccbe9e8a3111839ea67567cc1ea77220137886f14f84d20e92601b410f8",
+      "doc_path": "contract/PHY-10",
+      "file": "vibevm/vibespecs/contract/PHY-10.md",
+      "heading": "PHY.10:4.2 - Find a physical change that makes the accounts diverge",
+      "line": 56,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-10#find-a-physical-change-that-makes-the-accounts-diverge"
+    },
+    {
+      "anchor": "construct-the-experiment-that-can-realize-the-contrast",
+      "content_hash": "sha256:6cf66e2560e89b37839a88cadc24194d2b8b6f1bb3068812a2d7bcd697ac2359",
+      "doc_path": "contract/PHY-10",
+      "file": "vibevm/vibespecs/contract/PHY-10.md",
+      "heading": "PHY.10:4.3 - Construct the experiment that can realize the contrast",
+      "line": 71,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-10#construct-the-experiment-that-can-realize-the-contrast"
+    },
+    {
+      "anchor": "compare-the-responses-that-can-actually-be-distinguished",
+      "content_hash": "sha256:ea2c00075d65bcc8b1c33df9733e3914cc4e9878bfdbcc54979d4184ab4d1084",
+      "doc_path": "contract/PHY-10",
+      "file": "vibevm/vibespecs/contract/PHY-10.md",
+      "heading": "PHY.10:4.4 - Compare the responses that can actually be distinguished",
+      "line": 83,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-10#compare-the-responses-that-can-actually-be-distinguished"
+    },
+    {
+      "anchor": "obtain-the-result-and-locate-the-failed-premise",
+      "content_hash": "sha256:08955c82b72f0f5b71b9c2883ae50fcd22d2e23625a04d551ddd1dbc08eb231d",
+      "doc_path": "contract/PHY-10",
+      "file": "vibevm/vibespecs/contract/PHY-10.md",
+      "heading": "PHY.10:4.5 - Obtain the result and locate the failed premise",
+      "line": 95,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-10#obtain-the-result-and-locate-the-failed-premise"
+    },
+    {
+      "anchor": "revise-the-account-or-develop-the-next-contrast",
+      "content_hash": "sha256:cb916f221018810959d262a468498fff10d7129c61697e0977a949b02574bb4d",
+      "doc_path": "contract/PHY-10",
+      "file": "vibevm/vibespecs/contract/PHY-10.md",
+      "heading": "PHY.10:4.6 - Revise the account or develop the next contrast",
+      "line": 107,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-10#revise-the-account-or-develop-the-next-contrast"
+    },
+    {
+      "anchor": "conformance-checklist",
+      "content_hash": "sha256:a61bcd944fc31a7bfcbfce6b94e99955573c88f25c449b742a4ce733467d87bd",
+      "doc_path": "contract/PHY-10",
+      "file": "vibevm/vibespecs/contract/PHY-10.md",
+      "heading": "PHY.10:7 - Conformance Checklist",
+      "line": 117,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-10#conformance-checklist"
+    },
+    {
+      "anchor": "consequences",
+      "content_hash": "sha256:d0623338a06b6171f5dda97bd6d902d5abfe61f07b3b00dcb268bee1e0885563",
+      "doc_path": "contract/PHY-10",
+      "file": "vibevm/vibespecs/contract/PHY-10.md",
+      "heading": "PHY.10:9 - Consequences",
+      "line": 127,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-10#consequences"
+    },
+    {
+      "anchor": "relations",
+      "content_hash": "sha256:b42154bd1e2bd1604a126164a3a6cd4459d9afe8ae26fe6e449be156e50ea103",
+      "doc_path": "contract/PHY-10",
+      "file": "vibevm/vibespecs/contract/PHY-10.md",
+      "heading": "PHY.10:12 - Relations",
+      "line": 133,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-10#relations"
+    },
+    {
+      "anchor": "dependencies",
+      "content_hash": "sha256:89dfeaab47fd45d364e2f4f7a9dc4182311c72acdb2b409f1517b0f65a80585e",
+      "doc_path": "contract/PHY-10",
+      "file": "vibevm/vibespecs/contract/PHY-10.md",
+      "heading": "Dependencies",
+      "line": 144,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-10#dependencies"
+    },
+    {
+      "anchor": "DEPENDS-ON",
+      "content_hash": "sha256:6faf7154d6f7fc2e846a582ef5308efc866f8412ea2b07710683c47853b2e8e4",
+      "doc_path": "contract/PHY-10",
+      "file": "vibevm/vibespecs/contract/PHY-10.md",
+      "heading": "Dependencies (as published): spec://ai.lev/fpf-think-phy/contract/PHY-9#root for a needed readout; spec://ai.lev/fpf-think-phy/contract/PHY-6#root for evolution; spec://ai.lev/fpf-spec/contract/B-5-TC#root for theoretical comparison. @status:spec/done",
+      "line": 146,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-10#DEPENDS-ON"
+    },
+    {
+      "anchor": "REFERENCED-BY",
+      "content_hash": "sha256:68ef7c56d7c2f4c316aef5f177dd5daed9337563508b1a12172a6097f53e10ab",
+      "doc_path": "contract/PHY-10",
+      "file": "vibevm/vibespecs/contract/PHY-10.md",
+      "heading": "Referenced by (computed from the Tables of Contents): spec://ai.lev/fpf-think-phy/contract/PHY-9#root @status:spec/done",
+      "line": 147,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-10#REFERENCED-BY"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:c3d544deeba6447b3c93cb9d11be325a244ae74580b3afd0f770f617fd0855b5",
+      "doc_path": "contract/PHY-2",
+      "file": "vibevm/vibespecs/contract/PHY-2.md",
+      "heading": "PHY.2 - Construct a Physical Analogue from Interactions",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-2#root"
+    },
+    {
+      "anchor": "problem-frame",
+      "content_hash": "sha256:3d2df00dcfd4edb482d9c2e3b96ab2098c45ac6100198cb348f1eb642a5b68bb",
+      "doc_path": "contract/PHY-2",
+      "file": "vibevm/vibespecs/contract/PHY-2.md",
+      "heading": "PHY.2:1 - Problem frame",
+      "line": 11,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-2#problem-frame"
+    },
+    {
+      "anchor": "problem",
+      "content_hash": "sha256:abeb425cb87528c84bde508bcedeb72288c38db1eee52d0604c08ee8862094cb",
+      "doc_path": "contract/PHY-2",
+      "file": "vibevm/vibespecs/contract/PHY-2.md",
+      "heading": "PHY.2:2 - Problem",
+      "line": 21,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-2#problem"
+    },
+    {
+      "anchor": "forces",
+      "content_hash": "sha256:eaee33d5d987c900aab7b7572bc8f3e73146a803c069eeaa629f1e82532dbbc7",
+      "doc_path": "contract/PHY-2",
+      "file": "vibevm/vibespecs/contract/PHY-2.md",
+      "heading": "PHY.2:3 - Forces",
+      "line": 27,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-2#forces"
+    },
+    {
+      "anchor": "solution",
+      "content_hash": "sha256:ed73701c90bb08118de1097f292e3014aca1cf7c6a56102c64f2bddf7991e3c2",
+      "doc_path": "contract/PHY-2",
+      "file": "vibevm/vibespecs/contract/PHY-2.md",
+      "heading": "PHY.2:4 - Solution",
+      "line": 37,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-2#solution"
+    },
+    {
+      "anchor": "choose-what-the-source-must-help-you-obtain",
+      "content_hash": "sha256:0274760ec67f856a51506a74d630ce30231d593f3c8d7963dfe23c81549f197b",
+      "doc_path": "contract/PHY-2",
+      "file": "vibevm/vibespecs/contract/PHY-2.md",
+      "heading": "PHY.2:4.1 - Choose what the source must help you obtain",
+      "line": 41,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-2#choose-what-the-source-must-help-you-obtain"
+    },
+    {
+      "anchor": "propose-mechanisms-by-the-physical-effect-they-supply",
+      "content_hash": "sha256:10b4d53479e40df638f155f525dd0c96adefeda3a63b90d372f0f8a944d758fc",
+      "doc_path": "contract/PHY-2",
+      "file": "vibevm/vibespecs/contract/PHY-2.md",
+      "heading": "PHY.2:4.2 - Propose mechanisms by the physical effect they supply",
+      "line": 49,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-2#propose-mechanisms-by-the-physical-effect-they-supply"
+    },
+    {
+      "anchor": "construct-the-connection-and-its-effect-on-the-whole",
+      "content_hash": "sha256:6f93143de8152b9d0a4b4146ed1700c8a9de25071711319aa90cae035ca7ffae",
+      "doc_path": "contract/PHY-2",
+      "file": "vibevm/vibespecs/contract/PHY-2.md",
+      "heading": "PHY.2:4.3 - Construct the connection and its effect on the whole",
+      "line": 59,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-2#construct-the-connection-and-its-effect-on-the-whole"
+    },
+    {
+      "anchor": "recover-preparation-interpretation-and-available-range",
+      "content_hash": "sha256:f01334077a7592bede68a76b98925c9d25aeecabfdca1a42455539c5ba694872",
+      "doc_path": "contract/PHY-2",
+      "file": "vibevm/vibespecs/contract/PHY-2.md",
+      "heading": "PHY.2:4.4 - Recover preparation, interpretation and available range",
+      "line": 69,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-2#recover-preparation-interpretation-and-available-range"
+    },
+    {
+      "anchor": "obtain-a-consequence-and-determine-its-reach",
+      "content_hash": "sha256:f12db4bbc6db10e27d237d990a47412afa9ebddd838ebe23ad90ec59f30ed7c3",
+      "doc_path": "contract/PHY-2",
+      "file": "vibevm/vibespecs/contract/PHY-2.md",
+      "heading": "PHY.2:4.5 - Obtain a consequence and determine its reach",
+      "line": 79,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-2#obtain-a-consequence-and-determine-its-reach"
+    },
+    {
+      "anchor": "return-to-the-target-and-change-the-useful-part",
+      "content_hash": "sha256:60c6fbfc26e70f9133f854fe79e0309e7c54492d816302ad2db4d7d1e6984d6d",
+      "doc_path": "contract/PHY-2",
+      "file": "vibevm/vibespecs/contract/PHY-2.md",
+      "heading": "PHY.2:4.6 - Return to the target and change the useful part",
+      "line": 89,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-2#return-to-the-target-and-change-the-useful-part"
+    },
+    {
+      "anchor": "conformance-checklist",
+      "content_hash": "sha256:5e7f57661e2f772c694a8fe34c28f75b24db2739bcddac13e34ff08b2f5faa31",
+      "doc_path": "contract/PHY-2",
+      "file": "vibevm/vibespecs/contract/PHY-2.md",
+      "heading": "PHY.2:7 - Conformance Checklist",
+      "line": 97,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-2#conformance-checklist"
+    },
+    {
+      "anchor": "consequences",
+      "content_hash": "sha256:f90f79f903130265a16d0baac326887922bb419c080430a9091292755194b8b6",
+      "doc_path": "contract/PHY-2",
+      "file": "vibevm/vibespecs/contract/PHY-2.md",
+      "heading": "PHY.2:9 - Consequences",
+      "line": 107,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-2#consequences"
+    },
+    {
+      "anchor": "relations",
+      "content_hash": "sha256:8bf9b185e3a3636ce38535674ee554e279563aa52a1b99815b973439b17982af",
+      "doc_path": "contract/PHY-2",
+      "file": "vibevm/vibespecs/contract/PHY-2.md",
+      "heading": "PHY.2:12 - Relations",
+      "line": 113,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-2#relations"
+    },
+    {
+      "anchor": "dependencies",
+      "content_hash": "sha256:327e651b7f9024d681da559370ff41fab96a82dd1213953b9352950cebe2ac7f",
+      "doc_path": "contract/PHY-2",
+      "file": "vibevm/vibespecs/contract/PHY-2.md",
+      "heading": "Dependencies",
+      "line": 122,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-2#dependencies"
+    },
+    {
+      "anchor": "DEPENDS-ON",
+      "content_hash": "sha256:015fce544fda5124a231c118e1e3be120b04c578a6b9bcedcc8f913684cc62ae",
+      "doc_path": "contract/PHY-2",
+      "file": "vibevm/vibespecs/contract/PHY-2.md",
+      "heading": "Dependencies (as published): spec://ai.lev/fpf-think-phy/contract/PHY-5#root/.6 for physical description and evolution; spec://ai.lev/fpf-think-phy/contract/PHY-9#root/.10 for observation and comparison; spec://ai.lev/fpf-spec/contract/C-29-3#root for computing realization. @status:spec/done",
+      "line": 124,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-2#DEPENDS-ON"
+    },
+    {
+      "anchor": "REFERENCED-BY",
+      "content_hash": "sha256:acd2b6494da7e44a86ecab7d84699095eea98057c563d48e945f6dc50c747311",
+      "doc_path": "contract/PHY-2",
+      "file": "vibevm/vibespecs/contract/PHY-2.md",
+      "heading": "Referenced by (computed from the Tables of Contents): spec://ai.lev/fpf-think-phy/contract/PHY-3#root @status:spec/done",
+      "line": 125,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-2#REFERENCED-BY"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:6406436f426864e26ba26d07d7ee2756704f4fb5363ea5d994a512e6b71cfc5f",
+      "doc_path": "contract/PHY-3",
+      "file": "vibevm/vibespecs/contract/PHY-3.md",
+      "heading": "PHY.3 - Derive a Physical Limit from Permitted Transformations",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-3#root"
+    },
+    {
+      "anchor": "problem-frame",
+      "content_hash": "sha256:dffb3cc85b481b59402f9af51cc3e4ecf65900300be6ca0bb20ed289df1598d4",
+      "doc_path": "contract/PHY-3",
+      "file": "vibevm/vibespecs/contract/PHY-3.md",
+      "heading": "PHY.3:1 - Problem frame",
+      "line": 11,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-3#problem-frame"
+    },
+    {
+      "anchor": "problem",
+      "content_hash": "sha256:d459c5358144c5a9a5008238e70d65a954c4e789df98fd66ac3a91851f2d61bc",
+      "doc_path": "contract/PHY-3",
+      "file": "vibevm/vibespecs/contract/PHY-3.md",
+      "heading": "PHY.3:2 - Problem",
+      "line": 21,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-3#problem"
+    },
+    {
+      "anchor": "forces",
+      "content_hash": "sha256:2a0f796d30ffae7b8b8f0dc665d8a2c4548a315ce281bfd9a1c4ddbc7acb8ffc",
+      "doc_path": "contract/PHY-3",
+      "file": "vibevm/vibespecs/contract/PHY-3.md",
+      "heading": "PHY.3:3 - Forces",
+      "line": 27,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-3#forces"
+    },
+    {
+      "anchor": "solution",
+      "content_hash": "sha256:591e6c9a4cc2885b2146d23aad2952e38f0fba6c6e81867e4b0f0b9777c4745a",
+      "doc_path": "contract/PHY-3",
+      "file": "vibevm/vibespecs/contract/PHY-3.md",
+      "heading": "PHY.3:4 - Solution",
+      "line": 37,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-3#solution"
+    },
+    {
+      "anchor": "specify-the-physical-change-and-what-must-remain-usable",
+      "content_hash": "sha256:8631170d3fa821959da651e7ec23c3ee8a6f2557b8ff4167917ac3d762cb0a25",
+      "doc_path": "contract/PHY-3",
+      "file": "vibevm/vibespecs/contract/PHY-3.md",
+      "heading": "PHY.3:4.1 - Specify the physical change and what must remain usable",
+      "line": 41,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-3#specify-the-physical-change-and-what-must-remain-usable"
+    },
+    {
+      "anchor": "establish-which-physical-restrictions-cover-the-candidate",
+      "content_hash": "sha256:8b5b22f652dcc2fdc674a0b616dbfe8db5c583d9581f150907d2a163b24cca02",
+      "doc_path": "contract/PHY-3",
+      "file": "vibevm/vibespecs/contract/PHY-3.md",
+      "heading": "PHY.3:4.2 - Establish which physical restrictions cover the candidate mechanisms",
+      "line": 51,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-3#establish-which-physical-restrictions-cover-the-candidate"
+    },
+    {
+      "anchor": "construct-a-comparison-that-exposes-the-restriction",
+      "content_hash": "sha256:c964c1dcc8842e5bbf0180c6533395a4cf8662b574bde3889ac50da845b55869",
+      "doc_path": "contract/PHY-3",
+      "file": "vibevm/vibespecs/contract/PHY-3.md",
+      "heading": "PHY.3:4.3 - Construct a comparison that exposes the restriction",
+      "line": 61,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-3#construct-a-comparison-that-exposes-the-restriction"
+    },
+    {
+      "anchor": "derive-the-consequence-with-every-remaining-physical-change",
+      "content_hash": "sha256:1a4b149fbfa41aa57ec3145c1aba102e2483798b1c8a8e985547ca074aad8264",
+      "doc_path": "contract/PHY-3",
+      "file": "vibevm/vibespecs/contract/PHY-3.md",
+      "heading": "PHY.3:4.4 - Derive the consequence with every remaining physical change included",
+      "line": 75,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-3#derive-the-consequence-with-every-remaining-physical-change"
+    },
+    {
+      "anchor": "change-the-proposal-at-the-premise-that-controls-the-result",
+      "content_hash": "sha256:77a8046a7096c3dc1bc9132812149793fc5f1c0d2a7a21e14fd6e282bb6da411",
+      "doc_path": "contract/PHY-3",
+      "file": "vibevm/vibespecs/contract/PHY-3.md",
+      "heading": "PHY.3:4.5 - Change the proposal at the premise that controls the result",
+      "line": 83,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-3#change-the-proposal-at-the-premise-that-controls-the-result"
+    },
+    {
+      "anchor": "conformance-checklist",
+      "content_hash": "sha256:07cfaff070b4af7671bfb8f288d321cdcbbbb1860a52e8b7f72d65aa4462dec9",
+      "doc_path": "contract/PHY-3",
+      "file": "vibevm/vibespecs/contract/PHY-3.md",
+      "heading": "PHY.3:7 - Conformance Checklist",
+      "line": 91,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-3#conformance-checklist"
+    },
+    {
+      "anchor": "consequences",
+      "content_hash": "sha256:a89a81a7fce98f4ff9288590e3dc850b92aab93cf2f48b01d1439c55414e2c73",
+      "doc_path": "contract/PHY-3",
+      "file": "vibevm/vibespecs/contract/PHY-3.md",
+      "heading": "PHY.3:9 - Consequences",
+      "line": 101,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-3#consequences"
+    },
+    {
+      "anchor": "relations",
+      "content_hash": "sha256:116c89b32800e9b88a8fa8e3021459b505e3ff6617eceda9faeb802b283a6a93",
+      "doc_path": "contract/PHY-3",
+      "file": "vibevm/vibespecs/contract/PHY-3.md",
+      "heading": "PHY.3:12 - Relations",
+      "line": 107,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-3#relations"
+    },
+    {
+      "anchor": "dependencies",
+      "content_hash": "sha256:ed3dbf18b1c2fc18f2a37de8246ae63145e7b83cbdc03886b8cf16f6a856d5d8",
+      "doc_path": "contract/PHY-3",
+      "file": "vibevm/vibespecs/contract/PHY-3.md",
+      "heading": "Dependencies",
+      "line": 116,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-3#dependencies"
+    },
+    {
+      "anchor": "DEPENDS-ON",
+      "content_hash": "sha256:e1ddb7e57219f0cd51e15e7ed44403a114491e3d2346114aebed08187e3b0f09",
+      "doc_path": "contract/PHY-3",
+      "file": "vibevm/vibespecs/contract/PHY-3.md",
+      "heading": "Dependencies (as published): spec://ai.lev/fpf-spec/contract/C-29-BB#root for balances; spec://ai.lev/fpf-think-math/contract/MATH-11#root/.20 for invariants or bounds; spec://ai.lev/fpf-think-phy/contract/PHY-2#root for another physical construction. @status:spec/done",
+      "line": 118,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-3#DEPENDS-ON"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:16544ce3eb0bd10813b44a65d34a205281f77ac2bf370c21324140b2d79d5370",
+      "doc_path": "contract/PHY-4",
+      "file": "vibevm/vibespecs/contract/PHY-4.md",
+      "heading": "PHY.4 - Constrain an Unknown Physical Law by Transforming the Situation",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-4#root"
+    },
+    {
+      "anchor": "problem-frame",
+      "content_hash": "sha256:643f130db9d8484265c44bd857bc3da68b8081a6ab462c920decb006fcf77da2",
+      "doc_path": "contract/PHY-4",
+      "file": "vibevm/vibespecs/contract/PHY-4.md",
+      "heading": "PHY.4:1 - Problem frame",
+      "line": 11,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-4#problem-frame"
+    },
+    {
+      "anchor": "problem",
+      "content_hash": "sha256:94f1fa408149cd64ec787d384783bc9e12c822a36a2dff8d9e5aabd98fd5109f",
+      "doc_path": "contract/PHY-4",
+      "file": "vibevm/vibespecs/contract/PHY-4.md",
+      "heading": "PHY.4:2 - Problem",
+      "line": 23,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-4#problem"
+    },
+    {
+      "anchor": "forces",
+      "content_hash": "sha256:41ab07282bd1f49c68da72a44785ede1e6daef0744e3f23c481176a12d849699",
+      "doc_path": "contract/PHY-4",
+      "file": "vibevm/vibespecs/contract/PHY-4.md",
+      "heading": "PHY.4:3 - Forces",
+      "line": 29,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-4#forces"
+    },
+    {
+      "anchor": "solution",
+      "content_hash": "sha256:35951120716e538e8d3db0363a42f1fc8c9373ca56590f0b55293debde6baf55",
+      "doc_path": "contract/PHY-4",
+      "file": "vibevm/vibespecs/contract/PHY-4.md",
+      "heading": "PHY.4:4 - Solution",
+      "line": 38,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-4#solution"
+    },
+    {
+      "anchor": "recover-the-participants-and-the-relation-being-sought",
+      "content_hash": "sha256:d1d9edefe2e1c9b78cd414ca6e90b8cc1154be9bbbe0bf81288c2af1cbfcdce3",
+      "doc_path": "contract/PHY-4",
+      "file": "vibevm/vibespecs/contract/PHY-4.md",
+      "heading": "PHY.4:4.1 - Recover the participants and the relation being sought",
+      "line": 42,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-4#recover-the-participants-and-the-relation-being-sought"
+    },
+    {
+      "anchor": "construct-the-transformation-of-the-situation",
+      "content_hash": "sha256:ec26e964adeb09ef3801aab60740b28904c06543500817a31383c3092d1983aa",
+      "doc_path": "contract/PHY-4",
+      "file": "vibevm/vibespecs/contract/PHY-4.md",
+      "heading": "PHY.4:4.2 - Construct the transformation of the situation",
+      "line": 52,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-4#construct-the-transformation-of-the-situation"
+    },
+    {
+      "anchor": "turn-the-comparison-into-a-constraint-on-the-unknown-relation",
+      "content_hash": "sha256:fe1f7d5e517a3cdef7b2b4c2ff201030f8030589b99e5f9064742e5edf9720b5",
+      "doc_path": "contract/PHY-4",
+      "file": "vibevm/vibespecs/contract/PHY-4.md",
+      "heading": "PHY.4:4.3 - Turn the comparison into a constraint on the unknown relation",
+      "line": 67,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-4#turn-the-comparison-into-a-constraint-on-the-unknown-relation"
+    },
+    {
+      "anchor": "combine-applicable-dimensions-balances-and-dissipation",
+      "content_hash": "sha256:abdf4c0d7699aa554b3af7d7973c498712c4148a38a270c590010ab4cadf77d7",
+      "doc_path": "contract/PHY-4",
+      "file": "vibevm/vibespecs/contract/PHY-4.md",
+      "heading": "PHY.4:4.4 - Combine applicable dimensions, balances and dissipation",
+      "line": 81,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-4#combine-applicable-dimensions-balances-and-dissipation"
+    },
+    {
+      "anchor": "obtain-the-needed-consequence-and-choose-the-next-use",
+      "content_hash": "sha256:95eea1684643af40be4b415ea042d5c5b3b019d7c77d77d7e1231684df6e3429",
+      "doc_path": "contract/PHY-4",
+      "file": "vibevm/vibespecs/contract/PHY-4.md",
+      "heading": "PHY.4:4.5 - Obtain the needed consequence and choose the next use",
+      "line": 93,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-4#obtain-the-needed-consequence-and-choose-the-next-use"
+    },
+    {
+      "anchor": "conformance-checklist",
+      "content_hash": "sha256:cfc562d084c2ac191475e9112062bcda49b8fab9a4ce470a2283790cc49d042b",
+      "doc_path": "contract/PHY-4",
+      "file": "vibevm/vibespecs/contract/PHY-4.md",
+      "heading": "PHY.4:7 - Conformance Checklist",
+      "line": 103,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-4#conformance-checklist"
+    },
+    {
+      "anchor": "consequences",
+      "content_hash": "sha256:e0127bd06866f2bdbab0e90659120f0cacb37a9b8387dc262578cd8120260219",
+      "doc_path": "contract/PHY-4",
+      "file": "vibevm/vibespecs/contract/PHY-4.md",
+      "heading": "PHY.4:9 - Consequences",
+      "line": 115,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-4#consequences"
+    },
+    {
+      "anchor": "relations",
+      "content_hash": "sha256:0385d66c4f997b04412d467d12117252f038aaf76ba4caa15a54efc9977d28d7",
+      "doc_path": "contract/PHY-4",
+      "file": "vibevm/vibespecs/contract/PHY-4.md",
+      "heading": "PHY.4:12 - Relations",
+      "line": 121,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-4#relations"
+    },
+    {
+      "anchor": "dependencies",
+      "content_hash": "sha256:06191dff3cf72fa7eb8a45ce949917e6b1ccf37ee0857585503e27f4d224fa54",
+      "doc_path": "contract/PHY-4",
+      "file": "vibevm/vibespecs/contract/PHY-4.md",
+      "heading": "Dependencies",
+      "line": 134,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-4#dependencies"
+    },
+    {
+      "anchor": "DEPENDS-ON",
+      "content_hash": "sha256:0f64b41322d0bc35e8c90b0a7e7cf6100211f936f4299e3926409a4c35b4c6e7",
+      "doc_path": "contract/PHY-4",
+      "file": "vibevm/vibespecs/contract/PHY-4.md",
+      "heading": "Dependencies (as published): spec://ai.lev/fpf-think-math/contract/MATH-13#root for a symmetry consequence; spec://ai.lev/fpf-think-mmp/contract/MMP-11#root for an unknown response family. @status:spec/done",
+      "line": 136,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-4#DEPENDS-ON"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:b6467847d5a7512347593a2b69627dc1957a1802daba84c2c08c4ed35c3deac5",
+      "doc_path": "contract/PHY-5",
+      "file": "vibevm/vibespecs/contract/PHY-5.md",
+      "heading": "PHY.5 - Choose an Effective Physical Description by Scales and Couplings",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-5#root"
+    },
+    {
+      "anchor": "problem-frame",
+      "content_hash": "sha256:a4b02c2216ddce54f2816e3a7797a6f01272a1375be885c429f5fcf3c32f7724",
+      "doc_path": "contract/PHY-5",
+      "file": "vibevm/vibespecs/contract/PHY-5.md",
+      "heading": "PHY.5:1 - Problem frame",
+      "line": 11,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-5#problem-frame"
+    },
+    {
+      "anchor": "problem",
+      "content_hash": "sha256:fbf81fad010afaeddc937bea74181fa3da11f71a64b5547a08520b3cc314249c",
+      "doc_path": "contract/PHY-5",
+      "file": "vibevm/vibespecs/contract/PHY-5.md",
+      "heading": "PHY.5:2 - Problem",
+      "line": 23,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-5#problem"
+    },
+    {
+      "anchor": "forces",
+      "content_hash": "sha256:7323275e9238c3df48dd8504902522633a9e6a8fbc1779a4e05446f26841aad2",
+      "doc_path": "contract/PHY-5",
+      "file": "vibevm/vibespecs/contract/PHY-5.md",
+      "heading": "PHY.5:3 - Forces",
+      "line": 31,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-5#forces"
+    },
+    {
+      "anchor": "solution",
+      "content_hash": "sha256:e5e62d142a8761f8eb9d1f8a85f61b1a6d4a4306e5fe5c81f7ce01dcc58cfe8b",
+      "doc_path": "contract/PHY-5",
+      "file": "vibevm/vibespecs/contract/PHY-5.md",
+      "heading": "PHY.5:4 - Solution",
+      "line": 41,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-5#solution"
+    },
+    {
+      "anchor": "choose-the-physical-consequence-and-its-resolution",
+      "content_hash": "sha256:d90b9930929954c4acf384a07472c124971b952643585cbaf6e083e4c3cefa6e",
+      "doc_path": "contract/PHY-5",
+      "file": "vibevm/vibespecs/contract/PHY-5.md",
+      "heading": "PHY.5:4.1 - Choose the physical consequence and its resolution",
+      "line": 45,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-5#choose-the-physical-consequence-and-its-resolution"
+    },
+    {
+      "anchor": "locate-the-interactions-and-compare-their-scales",
+      "content_hash": "sha256:4087e2cbfc1377340c510d1ade11324a2579d23828b2be5e84bc54e60e15c623",
+      "doc_path": "contract/PHY-5",
+      "file": "vibevm/vibespecs/contract/PHY-5.md",
+      "heading": "PHY.5:4.2 - Locate the interactions and compare their scales",
+      "line": 53,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-5#locate-the-interactions-and-compare-their-scales"
+    },
+    {
+      "anchor": "choose-how-unresolved-processes-enter-the-retained-account",
+      "content_hash": "sha256:23eb2f460d168ff1aee6e287414187eca9f4ca817b4949b737d80eaa635b6799",
+      "doc_path": "contract/PHY-5",
+      "file": "vibevm/vibespecs/contract/PHY-5.md",
+      "heading": "PHY.5:4.3 - Choose how unresolved processes enter the retained account",
+      "line": 65,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-5#choose-how-unresolved-processes-enter-the-retained-account"
+    },
+    {
+      "anchor": "construct-the-approximation-and-its-first-omitted-contribution",
+      "content_hash": "sha256:32e0f8d5da1bcefbbcab769cd7d7766d3351b6813cc789d6d1192eea82921ffc",
+      "doc_path": "contract/PHY-5",
+      "file": "vibevm/vibespecs/contract/PHY-5.md",
+      "heading": "PHY.5:4.4 - Construct the approximation and its first omitted contribution",
+      "line": 82,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-5#construct-the-approximation-and-its-first-omitted-contribution"
+    },
+    {
+      "anchor": "judge-the-influence-on-the-requested-answer",
+      "content_hash": "sha256:59300b929879110b7cda590ea89a57bb009533e110183a52e177d6b0a5756f5b",
+      "doc_path": "contract/PHY-5",
+      "file": "vibevm/vibespecs/contract/PHY-5.md",
+      "heading": "PHY.5:4.5 - Judge the influence on the requested answer",
+      "line": 94,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-5#judge-the-influence-on-the-requested-answer"
+    },
+    {
+      "anchor": "use-the-account-and-reopen-the-affected-physical-choice",
+      "content_hash": "sha256:d01aaf2fa529caa5ff23b8622f0fae818d7eea15246fd70a7d8862a5ea8be22e",
+      "doc_path": "contract/PHY-5",
+      "file": "vibevm/vibespecs/contract/PHY-5.md",
+      "heading": "PHY.5:4.6 - Use the account and reopen the affected physical choice",
+      "line": 104,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-5#use-the-account-and-reopen-the-affected-physical-choice"
+    },
+    {
+      "anchor": "conformance-checklist",
+      "content_hash": "sha256:b26fe27e4b463de818db6b5b9553f1d2f2b0b4d3200ba1ac9cec81e93f6cccb8",
+      "doc_path": "contract/PHY-5",
+      "file": "vibevm/vibespecs/contract/PHY-5.md",
+      "heading": "PHY.5:7 - Conformance Checklist",
+      "line": 114,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-5#conformance-checklist"
+    },
+    {
+      "anchor": "consequences",
+      "content_hash": "sha256:9c74fa185367e78fafd0784792f8f7942d168e4d1b58e8a20cd23eff3df20b80",
+      "doc_path": "contract/PHY-5",
+      "file": "vibevm/vibespecs/contract/PHY-5.md",
+      "heading": "PHY.5:9 - Consequences",
+      "line": 124,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-5#consequences"
+    },
+    {
+      "anchor": "relations",
+      "content_hash": "sha256:000f702351f993ed055b33fa0995127e1ae6ed821e0d65184a665690e10e9470",
+      "doc_path": "contract/PHY-5",
+      "file": "vibevm/vibespecs/contract/PHY-5.md",
+      "heading": "PHY.5:12 - Relations",
+      "line": 130,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-5#relations"
+    },
+    {
+      "anchor": "dependencies",
+      "content_hash": "sha256:671efd0efdbd15edd0bae0796e046e7b6fa71022b7dd0129bae4d701590f6c6d",
+      "doc_path": "contract/PHY-5",
+      "file": "vibevm/vibespecs/contract/PHY-5.md",
+      "heading": "Dependencies",
+      "line": 142,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-5#dependencies"
+    },
+    {
+      "anchor": "DEPENDS-ON",
+      "content_hash": "sha256:6da959b883bd646b604b1513ac25634d200c1a2b826dd91cc311fd9e8b70f628",
+      "doc_path": "contract/PHY-5",
+      "file": "vibevm/vibespecs/contract/PHY-5.md",
+      "heading": "Dependencies (as published): spec://ai.lev/fpf-think-mmp/contract/MMP-9#root for mathematical elimination; spec://ai.lev/fpf-think-phy/contract/PHY-6#root/.8 when evolution or collective preparation matters. @status:spec/done",
+      "line": 144,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-5#DEPENDS-ON"
+    },
+    {
+      "anchor": "REFERENCED-BY",
+      "content_hash": "sha256:ba0c871c781858015a861b12781bc35997ce24d799efa3ba4f7ba7c23d56eba6",
+      "doc_path": "contract/PHY-5",
+      "file": "vibevm/vibespecs/contract/PHY-5.md",
+      "heading": "Referenced by (computed from the Tables of Contents): spec://ai.lev/fpf-think-phy/contract/PHY-1#root, spec://ai.lev/fpf-think-phy/contract/PHY-2#root @status:spec/done",
+      "line": 145,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-5#REFERENCED-BY"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:7c1c87191c9bd960d2739e8b30f934495eed3688fdd1217a3d6749d2bea0eddc",
+      "doc_path": "contract/PHY-6",
+      "file": "vibevm/vibespecs/contract/PHY-6.md",
+      "heading": "PHY.6 - Construct Physical Evolution from Balances and Response Laws",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-6#root"
+    },
+    {
+      "anchor": "problem-frame",
+      "content_hash": "sha256:f6567510d155343cd366e4b70488bd56743f691c6978d09d0fc5726515b8b004",
+      "doc_path": "contract/PHY-6",
+      "file": "vibevm/vibespecs/contract/PHY-6.md",
+      "heading": "PHY.6:1 - Problem frame",
+      "line": 11,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-6#problem-frame"
+    },
+    {
+      "anchor": "problem",
+      "content_hash": "sha256:08ebcb5283676c34c68629ae8a49ef4f573d7c0d00d8374126d468c161377568",
+      "doc_path": "contract/PHY-6",
+      "file": "vibevm/vibespecs/contract/PHY-6.md",
+      "heading": "PHY.6:2 - Problem",
+      "line": 23,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-6#problem"
+    },
+    {
+      "anchor": "forces",
+      "content_hash": "sha256:0192378737d317d87a82535ab169b9c05dcb860c68fe23efea72823604422cf3",
+      "doc_path": "contract/PHY-6",
+      "file": "vibevm/vibespecs/contract/PHY-6.md",
+      "heading": "PHY.6:3 - Forces",
+      "line": 31,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-6#forces"
+    },
+    {
+      "anchor": "solution",
+      "content_hash": "sha256:49bdb42773a79ab7d799ed337e827953a237ed4c3096d6dd97802bb1c5a21084",
+      "doc_path": "contract/PHY-6",
+      "file": "vibevm/vibespecs/contract/PHY-6.md",
+      "heading": "PHY.6:4 - Solution",
+      "line": 41,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-6#solution"
+    },
+    {
+      "anchor": "choose-the-consequence-and-physical-participants",
+      "content_hash": "sha256:3545c122e5a087a6d0877951752dc7d6b6f4d6f6ad15a1ec0084d77aa5213725",
+      "doc_path": "contract/PHY-6",
+      "file": "vibevm/vibespecs/contract/PHY-6.md",
+      "heading": "PHY.6:4.1 - Choose the consequence and physical participants",
+      "line": 45,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-6#choose-the-consequence-and-physical-participants"
+    },
+    {
+      "anchor": "construct-the-balances-with-physical-meanings",
+      "content_hash": "sha256:2882fcb8fce5450d8b59225b5f3b0684066a2acc651f77a4579ee992d6b833d2",
+      "doc_path": "contract/PHY-6",
+      "file": "vibevm/vibespecs/contract/PHY-6.md",
+      "heading": "PHY.6:4.2 - Construct the balances with physical meanings",
+      "line": 53,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-6#construct-the-balances-with-physical-meanings"
+    },
+    {
+      "anchor": "supply-the-response-and-configuration-relations",
+      "content_hash": "sha256:ca43510771e2b03c7aacdda998629a04b4e8996e7038705af901ab0dcf015371",
+      "doc_path": "contract/PHY-6",
+      "file": "vibevm/vibespecs/contract/PHY-6.md",
+      "heading": "PHY.6:4.3 - Supply the response and configuration relations",
+      "line": 65,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-6#supply-the-response-and-configuration-relations"
+    },
+    {
+      "anchor": "connect-the-physical-relations-before-choosing-a-solving-order",
+      "content_hash": "sha256:6df2cb6dc842c76f877333ac53a4b3640ac97cbb4c805625c8b807403c654907",
+      "doc_path": "contract/PHY-6",
+      "file": "vibevm/vibespecs/contract/PHY-6.md",
+      "heading": "PHY.6:4.4 - Connect the physical relations before choosing a solving order",
+      "line": 75,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-6#connect-the-physical-relations-before-choosing-a-solving-order"
+    },
+    {
+      "anchor": "make-the-preparation-compatible-with-the-connected-account",
+      "content_hash": "sha256:5c1c899b2aee04aec9f196dcce0e5323b5a32edc5838463a7b106b07dec791ca",
+      "doc_path": "contract/PHY-6",
+      "file": "vibevm/vibespecs/contract/PHY-6.md",
+      "heading": "PHY.6:4.5 - Make the preparation compatible with the connected account",
+      "line": 85,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-6#make-the-preparation-compatible-with-the-connected-account"
+    },
+    {
+      "anchor": "derive-the-consequence-and-return-through-the-implicated-premise",
+      "content_hash": "sha256:d02f8e3ea012a04780a937f2cfc7371964dc341bfec71db0c07fe6475bfba7f5",
+      "doc_path": "contract/PHY-6",
+      "file": "vibevm/vibespecs/contract/PHY-6.md",
+      "heading": "PHY.6:4.6 - Derive the consequence and return through the implicated premise",
+      "line": 95,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-6#derive-the-consequence-and-return-through-the-implicated-premise"
+    },
+    {
+      "anchor": "conformance-checklist",
+      "content_hash": "sha256:3191b816af870598b9c8912bd596001674f8ae366401d26c407dab5c0a9434bf",
+      "doc_path": "contract/PHY-6",
+      "file": "vibevm/vibespecs/contract/PHY-6.md",
+      "heading": "PHY.6:7 - Conformance Checklist",
+      "line": 105,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-6#conformance-checklist"
+    },
+    {
+      "anchor": "consequences",
+      "content_hash": "sha256:a5e11e56e37832c31ec93619652a6b4cc5fdf5ef0f71f30a7f9f7fe9cc167651",
+      "doc_path": "contract/PHY-6",
+      "file": "vibevm/vibespecs/contract/PHY-6.md",
+      "heading": "PHY.6:9 - Consequences",
+      "line": 115,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-6#consequences"
+    },
+    {
+      "anchor": "relations",
+      "content_hash": "sha256:4b532f5d551db063b5bd9853df6d6885f82ce5b3b6372d0b3cc533af222efc71",
+      "doc_path": "contract/PHY-6",
+      "file": "vibevm/vibespecs/contract/PHY-6.md",
+      "heading": "PHY.6:12 - Relations",
+      "line": 121,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-6#relations"
+    },
+    {
+      "anchor": "dependencies",
+      "content_hash": "sha256:c7b9c8867a5b1efe2556a61fd23437713055f0806fbdf9676cabd8e49bc37954",
+      "doc_path": "contract/PHY-6",
+      "file": "vibevm/vibespecs/contract/PHY-6.md",
+      "heading": "Dependencies",
+      "line": 133,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-6#dependencies"
+    },
+    {
+      "anchor": "DEPENDS-ON",
+      "content_hash": "sha256:084ec1203b9fe89c724aebf01354c219f13e6611d0059d52a10843c35de95d78",
+      "doc_path": "contract/PHY-6",
+      "file": "vibevm/vibespecs/contract/PHY-6.md",
+      "heading": "Dependencies (as published): spec://ai.lev/fpf-spec/contract/C-29-BB#root for balances; spec://ai.lev/fpf-think-mmp/contract/MMP-10#root for coupled equations; spec://ai.lev/fpf-spec/contract/C-29-2#root for computational formulation. @status:spec/done",
+      "line": 135,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-6#DEPENDS-ON"
+    },
+    {
+      "anchor": "REFERENCED-BY",
+      "content_hash": "sha256:03293f72573dade6e8eef4236fcd9b9a5d059a4156a5f4b6deeb1b825b578157",
+      "doc_path": "contract/PHY-6",
+      "file": "vibevm/vibespecs/contract/PHY-6.md",
+      "heading": "Referenced by (computed from the Tables of Contents): spec://ai.lev/fpf-think-phy/contract/PHY-10#root, spec://ai.lev/fpf-think-phy/contract/PHY-5#root, spec://ai.lev/fpf-think-phy/contract/PHY-7#root, spec://ai.lev/fpf-think-phy/contract/PHY-8#root @status:spec/done",
+      "line": 136,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-6#REFERENCED-BY"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:02454fbfb7e8099cebba6a89fb98aba0afdedb3d9968f5547e8cf685fa8f6001",
+      "doc_path": "contract/PHY-7",
+      "file": "vibevm/vibespecs/contract/PHY-7.md",
+      "heading": "PHY.7 - Obtain Motion from a Physical Variational Principle",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-7#root"
+    },
+    {
+      "anchor": "problem-frame",
+      "content_hash": "sha256:3eee83fbbc2d7599003389179ad99e66028b372fce381ffa8052a21118f08b4b",
+      "doc_path": "contract/PHY-7",
+      "file": "vibevm/vibespecs/contract/PHY-7.md",
+      "heading": "PHY.7:1 - Problem frame",
+      "line": 11,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-7#problem-frame"
+    },
+    {
+      "anchor": "problem",
+      "content_hash": "sha256:a6d3292279917eb9180ea3d401ec25383629d4f86fef85be047a25603f516aad",
+      "doc_path": "contract/PHY-7",
+      "file": "vibevm/vibespecs/contract/PHY-7.md",
+      "heading": "PHY.7:2 - Problem",
+      "line": 23,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-7#problem"
+    },
+    {
+      "anchor": "forces",
+      "content_hash": "sha256:8d4a5eac624aafef8494aa0e36d9b3f3c874c65c274eb5dda763d6498b3d7e7c",
+      "doc_path": "contract/PHY-7",
+      "file": "vibevm/vibespecs/contract/PHY-7.md",
+      "heading": "PHY.7:3 - Forces",
+      "line": 29,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-7#forces"
+    },
+    {
+      "anchor": "solution",
+      "content_hash": "sha256:213a9a05326772a45efa78fa86c786bda2e2e218b978fc3f8991fb385db96a4a",
+      "doc_path": "contract/PHY-7",
+      "file": "vibevm/vibespecs/contract/PHY-7.md",
+      "heading": "PHY.7:4 - Solution",
+      "line": 39,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-7#solution"
+    },
+    {
+      "anchor": "choose-a-principle-for-the-physical-question",
+      "content_hash": "sha256:d9756eef4f2857d70bd12331d56888116b17a4168bf804ee7b4a4b0efd51d5ef",
+      "doc_path": "contract/PHY-7",
+      "file": "vibevm/vibespecs/contract/PHY-7.md",
+      "heading": "PHY.7:4.1 - Choose a principle for the physical question",
+      "line": 43,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-7#choose-a-principle-for-the-physical-question"
+    },
+    {
+      "anchor": "construct-the-histories-and-their-action",
+      "content_hash": "sha256:3691410ce7ecfeb29bdae9aa0ff5502e0b534624a3b14d8581e058524bca61ab",
+      "doc_path": "contract/PHY-7",
+      "file": "vibevm/vibespecs/contract/PHY-7.md",
+      "heading": "PHY.7:4.2 - Construct the histories and their action",
+      "line": 57,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-7#construct-the-histories-and-their-action"
+    },
+    {
+      "anchor": "state-what-may-vary-and-what-must-remain-fixed",
+      "content_hash": "sha256:03d2cd135bb53ea3d8efea04c8c43af6550c22e8ba95a1042c5674f746a9f480",
+      "doc_path": "contract/PHY-7",
+      "file": "vibevm/vibespecs/contract/PHY-7.md",
+      "heading": "PHY.7:4.3 - State what may vary and what must remain fixed",
+      "line": 67,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-7#state-what-may-vary-and-what-must-remain-fixed"
+    },
+    {
+      "anchor": "derive-the-interior-and-boundary-conditions-together",
+      "content_hash": "sha256:0e8ca06e83ac9a455efda2a754a246b8d11b8ffec200f5d7922b65860ca84272",
+      "doc_path": "contract/PHY-7",
+      "file": "vibevm/vibespecs/contract/PHY-7.md",
+      "heading": "PHY.7:4.4 - Derive the interior and boundary conditions together",
+      "line": 77,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-7#derive-the-interior-and-boundary-conditions-together"
+    },
+    {
+      "anchor": "recover-the-physical-consequence-and-preparation",
+      "content_hash": "sha256:f93747d62c228a9e1e856662b372f2a02487700f8e2f3cecf49c61e5bc9a8915",
+      "doc_path": "contract/PHY-7",
+      "file": "vibevm/vibespecs/contract/PHY-7.md",
+      "heading": "PHY.7:4.5 - Recover the physical consequence and preparation",
+      "line": 91,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-7#recover-the-physical-consequence-and-preparation"
+    },
+    {
+      "anchor": "return-through-the-premise-that-changed",
+      "content_hash": "sha256:bae13ad02a6fadc42d4ca6dbcb3fbdae5520e4cd9a4b6f9160b6cc3dfbc531f8",
+      "doc_path": "contract/PHY-7",
+      "file": "vibevm/vibespecs/contract/PHY-7.md",
+      "heading": "PHY.7:4.6 - Return through the premise that changed",
+      "line": 99,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-7#return-through-the-premise-that-changed"
+    },
+    {
+      "anchor": "conformance-checklist",
+      "content_hash": "sha256:a9ccd6ec02fd0e2640f728299116562da2bf41fb5e449215f3be94a298720d4f",
+      "doc_path": "contract/PHY-7",
+      "file": "vibevm/vibespecs/contract/PHY-7.md",
+      "heading": "PHY.7:7 - Conformance Checklist",
+      "line": 107,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-7#conformance-checklist"
+    },
+    {
+      "anchor": "consequences",
+      "content_hash": "sha256:ce83ecc765cce5bfe02ca08880b4d8f85509b19f7db03b3fbef2d8032e7ea1ba",
+      "doc_path": "contract/PHY-7",
+      "file": "vibevm/vibespecs/contract/PHY-7.md",
+      "heading": "PHY.7:9 - Consequences",
+      "line": 117,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-7#consequences"
+    },
+    {
+      "anchor": "relations",
+      "content_hash": "sha256:0795697998a7d27ef6e713fb7a5b41d7f163dd2b7f9726d340ea07edf03b1bcd",
+      "doc_path": "contract/PHY-7",
+      "file": "vibevm/vibespecs/contract/PHY-7.md",
+      "heading": "PHY.7:12 - Relations",
+      "line": 123,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-7#relations"
+    },
+    {
+      "anchor": "dependencies",
+      "content_hash": "sha256:4a633700c8527580d732b58f8a4d4ced1555e80df1a37927420c97ca7f73fee5",
+      "doc_path": "contract/PHY-7",
+      "file": "vibevm/vibespecs/contract/PHY-7.md",
+      "heading": "Dependencies",
+      "line": 135,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-7#dependencies"
+    },
+    {
+      "anchor": "DEPENDS-ON",
+      "content_hash": "sha256:e741586ff81d9bd8c46124e2275516f1acd18fe92e2ba6ca6af37142f8738a49",
+      "doc_path": "contract/PHY-7",
+      "file": "vibevm/vibespecs/contract/PHY-7.md",
+      "heading": "Dependencies (as published): spec://ai.lev/fpf-think-math/contract/MATH-10#root for mathematical variation; spec://ai.lev/fpf-think-phy/contract/PHY-6#root for the direct balance alternative. @status:spec/done",
+      "line": 137,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-7#DEPENDS-ON"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:6a9c325e571e9bf060a637d279d4c3ce9b3e1c5b2258fe19210db7723433263d",
+      "doc_path": "contract/PHY-8",
+      "file": "vibevm/vibespecs/contract/PHY-8.md",
+      "heading": "PHY.8 - Infer Macroscopic Physical Behavior from Microscopic Alternatives",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-8#root"
+    },
+    {
+      "anchor": "problem-frame",
+      "content_hash": "sha256:d9b735da1daeccb025f7e49f23c1b811429e6ddc64e50bae7195017dd1228570",
+      "doc_path": "contract/PHY-8",
+      "file": "vibevm/vibespecs/contract/PHY-8.md",
+      "heading": "PHY.8:1 - Problem frame",
+      "line": 11,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-8#problem-frame"
+    },
+    {
+      "anchor": "problem",
+      "content_hash": "sha256:a57511642e5efadff8413b6acb9a38135a33d41210819e99c8367b39a86395db",
+      "doc_path": "contract/PHY-8",
+      "file": "vibevm/vibespecs/contract/PHY-8.md",
+      "heading": "PHY.8:2 - Problem",
+      "line": 23,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-8#problem"
+    },
+    {
+      "anchor": "forces",
+      "content_hash": "sha256:0395c8639438dac49fa3b01de6b2d7a4a515585168ce0d5b7bbcd1958165071d",
+      "doc_path": "contract/PHY-8",
+      "file": "vibevm/vibespecs/contract/PHY-8.md",
+      "heading": "PHY.8:3 - Forces",
+      "line": 31,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-8#forces"
+    },
+    {
+      "anchor": "solution",
+      "content_hash": "sha256:854bfca081b59c9d810fb39f72a50ca58becb8d3ecf6de21dfc89821c6e0811a",
+      "doc_path": "contract/PHY-8",
+      "file": "vibevm/vibespecs/contract/PHY-8.md",
+      "heading": "PHY.8:4 - Solution",
+      "line": 42,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-8#solution"
+    },
+    {
+      "anchor": "specify-the-observable-and-how-it-will-be-used",
+      "content_hash": "sha256:fe6231d297dd9c4191c5cc29b0a200f3be3c1d2ecb3e102424c1f332ef8a7766",
+      "doc_path": "contract/PHY-8",
+      "file": "vibevm/vibespecs/contract/PHY-8.md",
+      "heading": "PHY.8:4.1 - Specify the observable and how it will be used",
+      "line": 46,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-8#specify-the-observable-and-how-it-will-be-used"
+    },
+    {
+      "anchor": "construct-admissible-alternatives-and-their-weighting-grounds",
+      "content_hash": "sha256:f1db21f29cbb3e4186c907d872fbef245c261224966c2ab1eb4a692d21b59f77",
+      "doc_path": "contract/PHY-8",
+      "file": "vibevm/vibespecs/contract/PHY-8.md",
+      "heading": "PHY.8:4.2 - Construct admissible alternatives and their weighting grounds",
+      "line": 54,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-8#construct-admissible-alternatives-and-their-weighting-grounds"
+    },
+    {
+      "anchor": "derive-the-collective-law-without-discarding-dependence",
+      "content_hash": "sha256:b809dafdde910ab235a428f7d4614e122c3b1801c5af1d6771338a429ab89a7a",
+      "doc_path": "contract/PHY-8",
+      "file": "vibevm/vibespecs/contract/PHY-8.md",
+      "heading": "PHY.8:4.3 - Derive the collective law without discarding dependence",
+      "line": 68,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-8#derive-the-collective-law-without-discarding-dependence"
+    },
+    {
+      "anchor": "establish-when-the-aggregate-represents-a-typical-observation",
+      "content_hash": "sha256:6b5fe74070460d1d571ec4a2b1830c34f02efac52a909c65760a6381129380bf",
+      "doc_path": "contract/PHY-8",
+      "file": "vibevm/vibespecs/contract/PHY-8.md",
+      "heading": "PHY.8:4.4 - Establish when the aggregate represents a typical observation",
+      "line": 88,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-8#establish-when-the-aggregate-represents-a-typical-observation"
+    },
+    {
+      "anchor": "connect-ensemble-behavior-to-physical-time",
+      "content_hash": "sha256:29e38cd705931c59a167fc3bce99d815bc0cacb9254be741342465a77d530dff",
+      "doc_path": "contract/PHY-8",
+      "file": "vibevm/vibespecs/contract/PHY-8.md",
+      "heading": "PHY.8:4.5 - Connect ensemble behavior to physical time",
+      "line": 102,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-8#connect-ensemble-behavior-to-physical-time"
+    },
+    {
+      "anchor": "compute-compare-and-return-to-the-physical-premise",
+      "content_hash": "sha256:676d307ed7ccf9eb47f87ab5c8c68b06b3d45c7739ea4e1f42393dadbd678cf3",
+      "doc_path": "contract/PHY-8",
+      "file": "vibevm/vibespecs/contract/PHY-8.md",
+      "heading": "PHY.8:4.6 - Compute, compare and return to the physical premise",
+      "line": 116,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-8#compute-compare-and-return-to-the-physical-premise"
+    },
+    {
+      "anchor": "conformance-checklist",
+      "content_hash": "sha256:e28e7ef53a96d202f3a33d86c15197fd29e9d29c95319d50b4474169cc941905",
+      "doc_path": "contract/PHY-8",
+      "file": "vibevm/vibespecs/contract/PHY-8.md",
+      "heading": "PHY.8:7 - Conformance Checklist",
+      "line": 126,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-8#conformance-checklist"
+    },
+    {
+      "anchor": "consequences",
+      "content_hash": "sha256:3df052f54e7429a21ed1695a72c0005daee8e2d7237d1474bc00a68ab8927fb1",
+      "doc_path": "contract/PHY-8",
+      "file": "vibevm/vibespecs/contract/PHY-8.md",
+      "heading": "PHY.8:9 - Consequences",
+      "line": 136,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-8#consequences"
+    },
+    {
+      "anchor": "relations",
+      "content_hash": "sha256:5cba1e558be5d51c2b94bda435750fcdd1c524a3cc8cfff72bafa1873e9acd75",
+      "doc_path": "contract/PHY-8",
+      "file": "vibevm/vibespecs/contract/PHY-8.md",
+      "heading": "PHY.8:12 - Relations",
+      "line": 142,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-8#relations"
+    },
+    {
+      "anchor": "dependencies",
+      "content_hash": "sha256:d6d62daedbf343ebcf614f4c6deb62bc842127fcf68f57afb12263424ea317be",
+      "doc_path": "contract/PHY-8",
+      "file": "vibevm/vibespecs/contract/PHY-8.md",
+      "heading": "Dependencies",
+      "line": 154,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-8#dependencies"
+    },
+    {
+      "anchor": "DEPENDS-ON",
+      "content_hash": "sha256:e3774268aa33e1fb71868e2941f71e12c339a57da3273ea6e968789c9373fe41",
+      "doc_path": "contract/PHY-8",
+      "file": "vibevm/vibespecs/contract/PHY-8.md",
+      "heading": "Dependencies (as published): spec://ai.lev/fpf-think-mmp/contract/MMP-7#root for probability composition; spec://ai.lev/fpf-think-mmp/contract/MMP-9#root for reduction; spec://ai.lev/fpf-think-phy/contract/PHY-6#root for the required physical evolution. @status:spec/done",
+      "line": 156,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-8#DEPENDS-ON"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:d497e30c7ea80cf6f098c3162bce7d26bd49c02aec26df0081535fcb1eadcc22",
+      "doc_path": "contract/PHY-9",
+      "file": "vibevm/vibespecs/contract/PHY-9.md",
+      "heading": "PHY.9 - Construct a Measuring Interaction for a Physical Distinction",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-9#root"
+    },
+    {
+      "anchor": "problem-frame",
+      "content_hash": "sha256:05999e5437a7890e581e917599f4cdbf553a645eee33eba47472a0562130e0cf",
+      "doc_path": "contract/PHY-9",
+      "file": "vibevm/vibespecs/contract/PHY-9.md",
+      "heading": "PHY.9:1 - Problem frame",
+      "line": 11,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-9#problem-frame"
+    },
+    {
+      "anchor": "problem",
+      "content_hash": "sha256:ec29fd2e8542c5e580bb3c488a69efd0e09c97bbe7281926985dc84a90de6546",
+      "doc_path": "contract/PHY-9",
+      "file": "vibevm/vibespecs/contract/PHY-9.md",
+      "heading": "PHY.9:2 - Problem",
+      "line": 23,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-9#problem"
+    },
+    {
+      "anchor": "forces",
+      "content_hash": "sha256:669d4815ce2c22f6a4601a337f0cdd4b597d78b0a8c41bc1e85d1932d9e5fe3a",
+      "doc_path": "contract/PHY-9",
+      "file": "vibevm/vibespecs/contract/PHY-9.md",
+      "heading": "PHY.9:3 - Forces",
+      "line": 31,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-9#forces"
+    },
+    {
+      "anchor": "solution",
+      "content_hash": "sha256:c2168f83e09b02ddddff588315331c59d1f2e4fb73dc3fa9f4adffc65a9e46a7",
+      "doc_path": "contract/PHY-9",
+      "file": "vibevm/vibespecs/contract/PHY-9.md",
+      "heading": "PHY.9:4 - Solution",
+      "line": 42,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-9#solution"
+    },
+    {
+      "anchor": "specify-the-physical-distinction-and-conditions",
+      "content_hash": "sha256:8920d1a5f638e130c1806c0e0510ef181bbfe961b9131ffe0bde7f5fbdc1806b",
+      "doc_path": "contract/PHY-9",
+      "file": "vibevm/vibespecs/contract/PHY-9.md",
+      "heading": "PHY.9:4.1 - Specify the physical distinction and conditions",
+      "line": 46,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-9#specify-the-physical-distinction-and-conditions"
+    },
+    {
+      "anchor": "choose-an-effect-that-carries-the-distinction-into-a-response",
+      "content_hash": "sha256:57c9de55dab3ee04be171f46cfd657747e89732ae330ab8218b479718fb29d69",
+      "doc_path": "contract/PHY-9",
+      "file": "vibevm/vibespecs/contract/PHY-9.md",
+      "heading": "PHY.9:4.2 - Choose an effect that carries the distinction into a response",
+      "line": 54,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-9#choose-an-effect-that-carries-the-distinction-into-a-response"
+    },
+    {
+      "anchor": "construct-the-preparation-and-comparison",
+      "content_hash": "sha256:7646566af2d26f7193101991d192e083479f00aa8cefc8fe660d376d5bb76895",
+      "doc_path": "contract/PHY-9",
+      "file": "vibevm/vibespecs/contract/PHY-9.md",
+      "heading": "PHY.9:4.3 - Construct the preparation and comparison",
+      "line": 64,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-9#construct-the-preparation-and-comparison"
+    },
+    {
+      "anchor": "include-the-effect-of-measuring-on-the-subject",
+      "content_hash": "sha256:93fd6d2db54f12217154aefe293af6c5b92df96940a93025e138bc578ecc9054",
+      "doc_path": "contract/PHY-9",
+      "file": "vibevm/vibespecs/contract/PHY-9.md",
+      "heading": "PHY.9:4.4 - Include the effect of measuring on the subject",
+      "line": 74,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-9#include-the-effect-of-measuring-on-the-subject"
+    },
+    {
+      "anchor": "determine-the-distinctions-the-readout-supports",
+      "content_hash": "sha256:6e9044fbcc5bc7faaf45e31cfadc70c2aeec92cd905b4b2f048d755ba6c18f49",
+      "doc_path": "contract/PHY-9",
+      "file": "vibevm/vibespecs/contract/PHY-9.md",
+      "heading": "PHY.9:4.5 - Determine the distinctions the readout supports",
+      "line": 84,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-9#determine-the-distinctions-the-readout-supports"
+    },
+    {
+      "anchor": "obtain-a-first-result-and-revise-the-physical-arrangement",
+      "content_hash": "sha256:f1029636b015b7e9714385620dc978ec0a6e872e0a3152e1deef6508ad1d8a3d",
+      "doc_path": "contract/PHY-9",
+      "file": "vibevm/vibespecs/contract/PHY-9.md",
+      "heading": "PHY.9:4.6 - Obtain a first result and revise the physical arrangement",
+      "line": 94,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-9#obtain-a-first-result-and-revise-the-physical-arrangement"
+    },
+    {
+      "anchor": "conformance-checklist",
+      "content_hash": "sha256:374185f025bfc7791b3a00658af7b11e464f43d9b14e49857359a0bd5b05fe8d",
+      "doc_path": "contract/PHY-9",
+      "file": "vibevm/vibespecs/contract/PHY-9.md",
+      "heading": "PHY.9:7 - Conformance Checklist",
+      "line": 104,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-9#conformance-checklist"
+    },
+    {
+      "anchor": "consequences",
+      "content_hash": "sha256:10562d80845b22541a352a5920fa65111e8ec371855554f8910aa2e848799a38",
+      "doc_path": "contract/PHY-9",
+      "file": "vibevm/vibespecs/contract/PHY-9.md",
+      "heading": "PHY.9:9 - Consequences",
+      "line": 114,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-9#consequences"
+    },
+    {
+      "anchor": "relations",
+      "content_hash": "sha256:cd9ed6e0cde36d04527621006118e85dc224b288ae86dfdccb359d11cd1cd922",
+      "doc_path": "contract/PHY-9",
+      "file": "vibevm/vibespecs/contract/PHY-9.md",
+      "heading": "PHY.9:12 - Relations",
+      "line": 120,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-9#relations"
+    },
+    {
+      "anchor": "dependencies",
+      "content_hash": "sha256:eb483c5f709182399286b4c92e88e91c3ecc2819862aa8384c92e53264f802b6",
+      "doc_path": "contract/PHY-9",
+      "file": "vibevm/vibespecs/contract/PHY-9.md",
+      "heading": "Dependencies",
+      "line": 133,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-9#dependencies"
+    },
+    {
+      "anchor": "DEPENDS-ON",
+      "content_hash": "sha256:2a0421dccc1c2d80da80fb9f63007be75b193fe89865de0369740d255aca4a27",
+      "doc_path": "contract/PHY-9",
+      "file": "vibevm/vibespecs/contract/PHY-9.md",
+      "heading": "Dependencies (as published): spec://ai.lev/fpf-spec/contract/C-16-MR#root for the measurement relation; spec://ai.lev/fpf-spec/contract/C-16-IR#root for inference from indications; spec://ai.lev/fpf-think-phy/contract/PHY-10#root for competing physical accounts. @status:spec/done",
+      "line": 135,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-9#DEPENDS-ON"
+    },
+    {
+      "anchor": "REFERENCED-BY",
+      "content_hash": "sha256:a3daefebaef854b14440e23d0cbe7c4cfd99b86b77688a8b972d7cdcdadab7e0",
+      "doc_path": "contract/PHY-9",
+      "file": "vibevm/vibespecs/contract/PHY-9.md",
+      "heading": "Referenced by (computed from the Tables of Contents): spec://ai.lev/fpf-think-phy/contract/PHY-10#root, spec://ai.lev/fpf-think-phy/contract/PHY-2#root @status:spec/done",
+      "line": 136,
+      "uri": "spec://ai.lev/fpf-think-phy/contract/PHY-9#REFERENCED-BY"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:aa750fc975feb5aa37eb6de225d0f2ea8d633724c9bb1641ee425be059303e5d",
+      "doc_path": "pub/ABOUT",
+      "file": "vibevm/vibespecs/pub/ABOUT.md",
+      "heading": "Physical Thinking DPF",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-think-phy/pub/ABOUT#root"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:e925bdfef5e61ccb219bdb5da6e33cfffad09ee97a880ae36dfa608eac64de8e",
+      "doc_path": "pub/PREFACE",
+      "file": "vibevm/vibespecs/pub/PREFACE.md",
+      "heading": "Physical Thinking - Preface",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-think-phy/pub/PREFACE#root"
+    },
+    {
+      "anchor": "preface-1",
+      "content_hash": "sha256:78b48521e9cea7625ed727d226368700d953359abf5258762d2d4873d3c53e69",
+      "doc_path": "pub/PREFACE",
+      "file": "vibevm/vibespecs/pub/PREFACE.md",
+      "heading": "PHY.Preface:1 - Problem frame - Construct a physical account you can use and change",
+      "line": 7,
+      "uri": "spec://ai.lev/fpf-think-phy/pub/PREFACE#preface-1"
+    },
+    {
+      "anchor": "preface-2",
+      "content_hash": "sha256:19650ea1b2bd4dbecc49704a6eb7114e5804dd5706c83976deef6e3d68892635",
+      "doc_path": "pub/PREFACE",
+      "file": "vibevm/vibespecs/pub/PREFACE.md",
+      "heading": "PHY.Preface:2 - Problem and forces - Keep the physical question through the calculation",
+      "line": 19,
+      "uri": "spec://ai.lev/fpf-think-phy/pub/PREFACE#preface-2"
+    },
+    {
+      "anchor": "preface-3",
+      "content_hash": "sha256:5e0615b305479a88777ed4e8d746e3e4870904b1ddc3ac92cf70e3b312e981b6",
+      "doc_path": "pub/PREFACE",
+      "file": "vibevm/vibespecs/pub/PREFACE.md",
+      "heading": "PHY.Preface:3 - Solution - Connect physical methods through their results",
+      "line": 36,
+      "uri": "spec://ai.lev/fpf-think-phy/pub/PREFACE#preface-3"
+    },
+    {
+      "anchor": "phy-preface-3-1-construct-and-constrain-the-account",
+      "content_hash": "sha256:1a659128a6cceba0f0b9dee004af585b1141b5be0757958de921397d137f6480",
+      "doc_path": "pub/PREFACE",
+      "file": "vibevm/vibespecs/pub/PREFACE.md",
+      "heading": "PHY.Preface:3.1 - Construct and constrain the account",
+      "line": 38,
+      "uri": "spec://ai.lev/fpf-think-phy/pub/PREFACE#phy-preface-3-1-construct-and-constrain-the-account"
+    },
+    {
+      "anchor": "phy-preface-3-2-compare-observe-and-construct-another-use",
+      "content_hash": "sha256:ce1f60048b41448d03f409e217a0e7650a459e4123b5d79c1aed165707ba66d1",
+      "doc_path": "pub/PREFACE",
+      "file": "vibevm/vibespecs/pub/PREFACE.md",
+      "heading": "PHY.Preface:3.2 - Compare, observe and construct another use",
+      "line": 50,
+      "uri": "spec://ai.lev/fpf-think-phy/pub/PREFACE#phy-preface-3-2-compare-observe-and-construct-another-use"
+    },
+    {
+      "anchor": "phy-preface-3-3-constituent-actions-in-ongoing-work",
+      "content_hash": "sha256:8c63c190fc85796c64f864f4960f13644e309da7059d98c6417a13a19b57d291",
+      "doc_path": "pub/PREFACE",
+      "file": "vibevm/vibespecs/pub/PREFACE.md",
+      "heading": "PHY.Preface:3.3 - Constituent actions in ongoing work",
+      "line": 64,
+      "uri": "spec://ai.lev/fpf-think-phy/pub/PREFACE#phy-preface-3-3-constituent-actions-in-ongoing-work"
+    },
+    {
+      "anchor": "preface-4",
+      "content_hash": "sha256:4ba0a77ec1a95ae7fd4435edf68f912dfe1a515524f9b9cc7e0a9d4840d90277",
+      "doc_path": "pub/PREFACE",
+      "file": "vibevm/vibespecs/pub/PREFACE.md",
+      "heading": "PHY.Preface:4 - Worked connection - From an unknown resistance to a useful comparison",
+      "line": 70,
+      "uri": "spec://ai.lev/fpf-think-phy/pub/PREFACE#preface-4"
+    },
+    {
+      "anchor": "preface-5",
+      "content_hash": "sha256:ef5d1b1e443e158c2ff1c414983b61d1f41194ee92461baeb782aad90685db43",
+      "doc_path": "pub/PREFACE",
+      "file": "vibevm/vibespecs/pub/PREFACE.md",
+      "heading": "PHY.Preface:5 - Bias, use checks and recurring failures",
+      "line": 92,
+      "uri": "spec://ai.lev/fpf-think-phy/pub/PREFACE#preface-5"
+    },
+    {
+      "anchor": "preface-6",
+      "content_hash": "sha256:da27b52e0f10d873d59aac5a5e53fd752cc8997281cbf5580928f46a15235df1",
+      "doc_path": "pub/PREFACE",
+      "file": "vibevm/vibespecs/pub/PREFACE.md",
+      "heading": "PHY.Preface:6 - Consequences and Architectural Rationale",
+      "line": 110,
+      "uri": "spec://ai.lev/fpf-think-phy/pub/PREFACE#preface-6"
+    },
+    {
+      "anchor": "preface-7",
+      "content_hash": "sha256:b05d15e6eb1d6ac8583f08c41e4a56d977735fce507311a508f90edf267dd370",
+      "doc_path": "pub/PREFACE",
+      "file": "vibevm/vibespecs/pub/PREFACE.md",
+      "heading": "PHY.Preface:7 - Shared sources, alternatives and relations",
+      "line": 122,
+      "uri": "spec://ai.lev/fpf-think-phy/pub/PREFACE#preface-7"
+    },
+    {
+      "anchor": "preface-end",
+      "content_hash": "sha256:0a6d4f79ae753f0780c9d7d3754ab4b067085d7c624bd284046574c42ab64186",
+      "doc_path": "pub/PREFACE",
+      "file": "vibevm/vibespecs/pub/PREFACE.md",
+      "heading": "PHY.Preface:End",
+      "line": 138,
+      "uri": "spec://ai.lev/fpf-think-phy/pub/PREFACE#preface-end"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:702dc01cab63c9e9b91cdeb933efb76ba31a9e192ce8f0c7b3c037cd01c1bf4b",
+      "doc_path": "pub/README",
+      "file": "vibevm/vibespecs/pub/README.md",
+      "heading": "Physical Thinking - Readme",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-think-phy/pub/README#root"
+    },
+    {
+      "anchor": "practical-entries",
+      "content_hash": "sha256:9697bff37b15a2e9eb54adc1302c07b296a183548fdb49800b3b8b07ceba8fc4",
+      "doc_path": "pub/README",
+      "file": "vibevm/vibespecs/pub/README.md",
+      "heading": "Practical entries",
+      "line": 7,
+      "uri": "spec://ai.lev/fpf-think-phy/pub/README#practical-entries"
+    },
+    {
+      "anchor": "ph-predict-and-distinguish-develop-a-physical-prediction-and",
+      "content_hash": "sha256:fc22d8185f34d7f95d7c4757bd35e823efd73163fcd94026fcd46765847b2c01",
+      "doc_path": "pub/README",
+      "file": "vibevm/vibespecs/pub/README.md",
+      "heading": "PH-PREDICT-AND-DISTINGUISH - Develop a physical prediction and the test it needs",
+      "line": 15,
+      "uri": "spec://ai.lev/fpf-think-phy/pub/README#ph-predict-and-distinguish-develop-a-physical-prediction-and"
+    },
+    {
+      "anchor": "from-an-unknown-resistance-to-a-useful-comparison",
+      "content_hash": "sha256:989a95bc72e75f48065f55ace3885cd74fa1b0e30034e6fc5cf83cef48053a2a",
+      "doc_path": "pub/README",
+      "file": "vibevm/vibespecs/pub/README.md",
+      "heading": "From an unknown resistance to a useful comparison",
+      "line": 23,
+      "uri": "spec://ai.lev/fpf-think-phy/pub/README#from-an-unknown-resistance-to-a-useful-comparison"
+    },
+    {
+      "anchor": "ph-collective-choose-a-collective-description-for-the-time-that",
+      "content_hash": "sha256:bfe6ce08ba9d7a608f8c9db3e9cb83bcefcf6ff837723ca7e218cdea7a9b84af",
+      "doc_path": "pub/README",
+      "file": "vibevm/vibespecs/pub/README.md",
+      "heading": "PH-COLLECTIVE - Choose a collective description for the time that matters",
+      "line": 35,
+      "uri": "spec://ai.lev/fpf-think-phy/pub/README#ph-collective-choose-a-collective-description-for-the-time-that"
+    },
+    {
+      "anchor": "from-persistent-motion-to-a-justified-diffusion-calculation",
+      "content_hash": "sha256:14a0c07db58d57a875960582df8ec9fd43ca453489f66577847d037c87641b13",
+      "doc_path": "pub/README",
+      "file": "vibevm/vibespecs/pub/README.md",
+      "heading": "From persistent motion to a justified diffusion calculation",
+      "line": 43,
+      "uri": "spec://ai.lev/fpf-think-phy/pub/README#from-persistent-motion-to-a-justified-diffusion-calculation"
+    },
+    {
+      "anchor": "ph-limit-use-a-physical-bound-before-designing-a-mechanism",
+      "content_hash": "sha256:fde607a4047345a5ad2b9de0c5b622821204c35e342bcacaa5d52ed30baf9202",
+      "doc_path": "pub/README",
+      "file": "vibevm/vibespecs/pub/README.md",
+      "heading": "PH-LIMIT - Use a physical bound before designing a mechanism",
+      "line": 67,
+      "uri": "spec://ai.lev/fpf-think-phy/pub/README#ph-limit-use-a-physical-bound-before-designing-a-mechanism"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:c0dde85d2b90bbb4da85a458d74756152ec3e4801d7b5ed915b553addf01e90f",
+      "doc_path": "pub/TOC",
+      "file": "vibevm/vibespecs/pub/TOC.md",
+      "heading": "Table of Contents",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-think-phy/pub/TOC#root"
+    },
+    {
+      "anchor": "public-units",
+      "content_hash": "sha256:4361f16243ecb9b568b23a8cfe1204d3ab1b9df240f4c97a5d19570ccc900492",
+      "doc_path": "pub/TOC",
+      "file": "vibevm/vibespecs/pub/TOC.md",
+      "heading": "Public units",
+      "line": 7,
+      "uri": "spec://ai.lev/fpf-think-phy/pub/TOC#public-units"
+    },
+    {
+      "anchor": "part-a-construct-and-constrain-a-physical-account",
+      "content_hash": "sha256:87eee20166cd177ffee36de29f27c8581a258348413fa0bd73fd47d829b9a036",
+      "doc_path": "pub/TOC",
+      "file": "vibevm/vibespecs/pub/TOC.md",
+      "heading": "Part A - Construct and constrain a physical account",
+      "line": 14,
+      "uri": "spec://ai.lev/fpf-think-phy/pub/TOC#part-a-construct-and-constrain-a-physical-account"
+    },
+    {
+      "anchor": "part-b-compare-observe-and-act",
+      "content_hash": "sha256:45149295d05c04129801810b45fb8ea8dafa4c129ab2e15b5c801d2015afff9c",
+      "doc_path": "pub/TOC",
+      "file": "vibevm/vibespecs/pub/TOC.md",
+      "heading": "Part B - Compare, observe and act",
+      "line": 24,
+      "uri": "spec://ai.lev/fpf-think-phy/pub/TOC#part-b-compare-observe-and-act"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:6ab9d29392a7edd2872a88026cadb0c5faad32bc2a5e54112346646bc1785eb1",
+      "doc_path": "pub/parts/part-a-construct-and-constrain-a-physical",
+      "file": "vibevm/vibespecs/pub/parts/part-a-construct-and-constrain-a-physical.md",
+      "heading": "Part A - Construct and constrain a physical account",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-think-phy/pub/parts/part-a-construct-and-constrain-a-physical#root"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:dbae97068feeb91a62be355ebfed05ed53ab5d479a1eb5c77f4d649044457b9b",
+      "doc_path": "pub/parts/part-b-compare-observe-and-act",
+      "file": "vibevm/vibespecs/pub/parts/part-b-compare-observe-and-act.md",
+      "heading": "Part B - Compare, observe and act",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-think-phy/pub/parts/part-b-compare-observe-and-act#root"
+    },
+    {
+      "anchor": "depth",
+      "content_hash": "sha256:2c773aafa87929a89f4c2d59afbb72173fae271945552b311e3d17346682c735",
+      "doc_path": "source/PHY-1",
+      "file": "vibevm/vibespecs/source/PHY-1.md",
+      "heading": "PHY.1 - Construct Physical Similarity Across Changed Conditions: depth",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-think-phy/source/PHY-1#depth"
+    },
+    {
+      "anchor": "archetypal-grounding",
+      "content_hash": "sha256:643017c5fff7befcc36acc3728c061e941cb06f6e4b6b62dcfde14ee6b383c6f",
+      "doc_path": "source/PHY-1",
+      "file": "vibevm/vibespecs/source/PHY-1.md",
+      "heading": "PHY.1:5 - Archetypal Grounding",
+      "line": 7,
+      "uri": "spec://ai.lev/fpf-think-phy/source/PHY-1#archetypal-grounding"
+    },
+    {
+      "anchor": "find-conflicting-requirements-before-building-a-smaller-flow",
+      "content_hash": "sha256:e39e7ebc0345dd437824198f3a145ce49e2d7d57f74396497766f7ec1c8c4359",
+      "doc_path": "source/PHY-1",
+      "file": "vibevm/vibespecs/source/PHY-1.md",
+      "heading": "PHY.1:5.1 - Find conflicting requirements before building a smaller flow experiment",
+      "line": 11,
+      "uri": "spec://ai.lev/fpf-think-phy/source/PHY-1#find-conflicting-requirements-before-building-a-smaller-flow"
+    },
+    {
+      "anchor": "reproduce-one-deformation-without-claiming-the-whole-field",
+      "content_hash": "sha256:921be4a6bd6320633e50b947bbf69d1f05626f9c7bb607d81178075bbf9af2a3",
+      "doc_path": "source/PHY-1",
+      "file": "vibevm/vibespecs/source/PHY-1.md",
+      "heading": "PHY.1:5.2 - Reproduce one deformation without claiming the whole field",
+      "line": 37,
+      "uri": "spec://ai.lev/fpf-think-phy/source/PHY-1#reproduce-one-deformation-without-claiming-the-whole-field"
+    },
+    {
+      "anchor": "preserve-competing-physical-time-scales",
+      "content_hash": "sha256:39b82f8d12ec02e268fce6ad4fc733bda8703c641b9f58df475f67694154e417",
+      "doc_path": "source/PHY-1",
+      "file": "vibevm/vibespecs/source/PHY-1.md",
+      "heading": "PHY.1:5.3 - Preserve competing physical time scales",
+      "line": 64,
+      "uri": "spec://ai.lev/fpf-think-phy/source/PHY-1#preserve-competing-physical-time-scales"
+    },
+    {
+      "anchor": "bias-annotation",
+      "content_hash": "sha256:0441507c59a8b88c57a27eb3f88c6b752c738941871d23c38ba7403a7c849a5e",
+      "doc_path": "source/PHY-1",
+      "file": "vibevm/vibespecs/source/PHY-1.md",
+      "heading": "PHY.1:6 - Bias-Annotation",
+      "line": 84,
+      "uri": "spec://ai.lev/fpf-think-phy/source/PHY-1#bias-annotation"
+    },
+    {
+      "anchor": "common-anti-patterns-and-how-to-avoid-them",
+      "content_hash": "sha256:753af75e4c11888e3ff35ce6c8293c5cf8e8a3c71e3521f0a106ff20c9c5ecc4",
+      "doc_path": "source/PHY-1",
+      "file": "vibevm/vibespecs/source/PHY-1.md",
+      "heading": "PHY.1:8 - Common Anti-Patterns and How to Avoid Them",
+      "line": 90,
+      "uri": "spec://ai.lev/fpf-think-phy/source/PHY-1#common-anti-patterns-and-how-to-avoid-them"
+    },
+    {
+      "anchor": "architectural-rationale",
+      "content_hash": "sha256:a40762e1a172b8ad9bb42284853a5b45917c19d05363001e9f257906390e61d2",
+      "doc_path": "source/PHY-1",
+      "file": "vibevm/vibespecs/source/PHY-1.md",
+      "heading": "PHY.1:10 - Architectural Rationale",
+      "line": 100,
+      "uri": "spec://ai.lev/fpf-think-phy/source/PHY-1#architectural-rationale"
+    },
+    {
+      "anchor": "sota-echoing",
+      "content_hash": "sha256:914c9112bf891267cacc6cc0134c11e55bbc231dfcece619be0c17453042ecd9",
+      "doc_path": "source/PHY-1",
+      "file": "vibevm/vibespecs/source/PHY-1.md",
+      "heading": "PHY.1:11 - SoTA-Echoing",
+      "line": 106,
+      "uri": "spec://ai.lev/fpf-think-phy/source/PHY-1#sota-echoing"
+    },
+    {
+      "anchor": "end",
+      "content_hash": "sha256:aae00aa02f4a71b897f9ffc69f5ac77d8989f840f4d179ee7bad0f5438aa1fc0",
+      "doc_path": "source/PHY-1",
+      "file": "vibevm/vibespecs/source/PHY-1.md",
+      "heading": "PHY.1:End",
+      "line": 121,
+      "uri": "spec://ai.lev/fpf-think-phy/source/PHY-1#end"
+    },
+    {
+      "anchor": "depth",
+      "content_hash": "sha256:fc42bc1d35e8c6d42e378dd263b61d02216073fef9d172885b82f32ad0117375",
+      "doc_path": "source/PHY-10",
+      "file": "vibevm/vibespecs/source/PHY-10.md",
+      "heading": "PHY.10 - Construct a Physical Test That Separates Rival Accounts: depth",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-think-phy/source/PHY-10#depth"
+    },
+    {
+      "anchor": "archetypal-grounding",
+      "content_hash": "sha256:5640a2a39d3a36b4445ab2171c1680038bd9e22b6c322812261dcc6f6cadcf9b",
+      "doc_path": "source/PHY-10",
+      "file": "vibevm/vibespecs/source/PHY-10.md",
+      "heading": "PHY.10:5 - Archetypal Grounding",
+      "line": 7,
+      "uri": "spec://ai.lev/fpf-think-phy/source/PHY-10#archetypal-grounding"
+    },
+    {
+      "anchor": "change-speed-to-separate-two-drag-accounts",
+      "content_hash": "sha256:b1eb1dfe596e5a96eb4e6c7d2431affb1e84a1b6c1339d790209f7f2569ee0db",
+      "doc_path": "source/PHY-10",
+      "file": "vibevm/vibespecs/source/PHY-10.md",
+      "heading": "PHY.10:5.1 - Change speed to separate two drag accounts",
+      "line": 9,
+      "uri": "spec://ai.lev/fpf-think-phy/source/PHY-10#change-speed-to-separate-two-drag-accounts"
+    },
+    {
+      "anchor": "change-a-drive-that-makes-storage-and-conduction-coincide",
+      "content_hash": "sha256:55fddf9f3c8e4506ce4fb1296bed10db743d5bd511b829a9ca668a2934e08c45",
+      "doc_path": "source/PHY-10",
+      "file": "vibevm/vibespecs/source/PHY-10.md",
+      "heading": "PHY.10:5.2 - Change a drive that makes storage and conduction coincide",
+      "line": 23,
+      "uri": "spec://ai.lev/fpf-think-phy/source/PHY-10#change-a-drive-that-makes-storage-and-conduction-coincide"
+    },
+    {
+      "anchor": "refocus-a-hidden-physical-difference",
+      "content_hash": "sha256:fed16e0bdd943a0dd6db7a2e24a76ac4ba2e2dccf35c6d872f56ff7e688d515c",
+      "doc_path": "source/PHY-10",
+      "file": "vibevm/vibespecs/source/PHY-10.md",
+      "heading": "PHY.10:5.3 - Refocus a hidden physical difference",
+      "line": 41,
+      "uri": "spec://ai.lev/fpf-think-phy/source/PHY-10#refocus-a-hidden-physical-difference"
+    },
+    {
+      "anchor": "bias-annotation",
+      "content_hash": "sha256:4e1abd4056c5e06059ae401a5857147476621a7851f84ba0aebdd891044d3907",
+      "doc_path": "source/PHY-10",
+      "file": "vibevm/vibespecs/source/PHY-10.md",
+      "heading": "PHY.10:6 - Bias-Annotation",
+      "line": 59,
+      "uri": "spec://ai.lev/fpf-think-phy/source/PHY-10#bias-annotation"
+    },
+    {
+      "anchor": "common-anti-patterns-and-how-to-avoid-them",
+      "content_hash": "sha256:40feccacb436495ff857b360e6ff2c6942f1382d0b4a09f55673eb943faedf18",
+      "doc_path": "source/PHY-10",
+      "file": "vibevm/vibespecs/source/PHY-10.md",
+      "heading": "PHY.10:8 - Common Anti-Patterns and How to Avoid Them",
+      "line": 65,
+      "uri": "spec://ai.lev/fpf-think-phy/source/PHY-10#common-anti-patterns-and-how-to-avoid-them"
+    },
+    {
+      "anchor": "architectural-rationale",
+      "content_hash": "sha256:8bbba7778b3e1f84bd0aa3cc49ab516cb9afed9f9b43c6d56957888d9b6eb975",
+      "doc_path": "source/PHY-10",
+      "file": "vibevm/vibespecs/source/PHY-10.md",
+      "heading": "PHY.10:10 - Architectural Rationale",
+      "line": 76,
+      "uri": "spec://ai.lev/fpf-think-phy/source/PHY-10#architectural-rationale"
+    },
+    {
+      "anchor": "sota-echoing",
+      "content_hash": "sha256:39c9c100e90fcba44c05f84a289e1f357cdfe3a1b6dcb2ed9f6eaa8a93dea3b6",
+      "doc_path": "source/PHY-10",
+      "file": "vibevm/vibespecs/source/PHY-10.md",
+      "heading": "PHY.10:11 - SoTA-Echoing",
+      "line": 84,
+      "uri": "spec://ai.lev/fpf-think-phy/source/PHY-10#sota-echoing"
+    },
+    {
+      "anchor": "end",
+      "content_hash": "sha256:a01092fd18db894b4173f65d689f26ba1ca4133ec7e54312811230daada598b4",
+      "doc_path": "source/PHY-10",
+      "file": "vibevm/vibespecs/source/PHY-10.md",
+      "heading": "PHY.10:End",
+      "line": 97,
+      "uri": "spec://ai.lev/fpf-think-phy/source/PHY-10#end"
+    },
+    {
+      "anchor": "depth",
+      "content_hash": "sha256:c9ffe3ccb55d2adb25cd4c10bbd37ef583a8438ea766599a974ed3c66acf80c0",
+      "doc_path": "source/PHY-2",
+      "file": "vibevm/vibespecs/source/PHY-2.md",
+      "heading": "PHY.2 - Construct a Physical Analogue from Interactions: depth",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-think-phy/source/PHY-2#depth"
+    },
+    {
+      "anchor": "archetypal-grounding",
+      "content_hash": "sha256:ee93ff267aab3fd3677bf99fee37999e0579d77f19bb2939faac6819c497ed6a",
+      "doc_path": "source/PHY-2",
+      "file": "vibevm/vibespecs/source/PHY-2.md",
+      "heading": "PHY.2:5 - Archetypal Grounding",
+      "line": 7,
+      "uri": "spec://ai.lev/fpf-think-phy/source/PHY-2#archetypal-grounding"
+    },
+    {
+      "anchor": "build-the-missing-coupling-in-a-mechanical-electrical-analogue",
+      "content_hash": "sha256:bd0539e9272e44733dc5396109ffc7ddc8a97b07915398a43d6a58520ee06a6f",
+      "doc_path": "source/PHY-2",
+      "file": "vibevm/vibespecs/source/PHY-2.md",
+      "heading": "PHY.2:5.1 - Build the missing coupling in a mechanical/electrical analogue",
+      "line": 11,
+      "uri": "spec://ai.lev/fpf-think-phy/source/PHY-2#build-the-missing-coupling-in-a-mechanical-electrical-analogue"
+    },
+    {
+      "anchor": "construct-a-mechanism-whose-short-time-consequence-differs-from",
+      "content_hash": "sha256:bb0197e032f73bb483d0eb5347e630f7467f09ec4a0d1b00cf8fdbe83b114f99",
+      "doc_path": "source/PHY-2",
+      "file": "vibevm/vibespecs/source/PHY-2.md",
+      "heading": "PHY.2:5.2 - Construct a mechanism whose short-time consequence differs from diffusion",
+      "line": 47,
+      "uri": "spec://ai.lev/fpf-think-phy/source/PHY-2#construct-a-mechanism-whose-short-time-consequence-differs-from"
+    },
+    {
+      "anchor": "bias-annotation",
+      "content_hash": "sha256:5c042c22a4e150edcc8824a356ba5ed726294f2bcdccde5c1d77b86529a1c4e3",
+      "doc_path": "source/PHY-2",
+      "file": "vibevm/vibespecs/source/PHY-2.md",
+      "heading": "PHY.2:6 - Bias-Annotation",
+      "line": 85,
+      "uri": "spec://ai.lev/fpf-think-phy/source/PHY-2#bias-annotation"
+    },
+    {
+      "anchor": "common-anti-patterns-and-how-to-avoid-them",
+      "content_hash": "sha256:a5e3ab945e99e004b9a2c96bd30ffe9a71683b93a951a8fcf52a382ecd9c725e",
+      "doc_path": "source/PHY-2",
+      "file": "vibevm/vibespecs/source/PHY-2.md",
+      "heading": "PHY.2:8 - Common Anti-Patterns and How to Avoid Them",
+      "line": 91,
+      "uri": "spec://ai.lev/fpf-think-phy/source/PHY-2#common-anti-patterns-and-how-to-avoid-them"
+    },
+    {
+      "anchor": "architectural-rationale",
+      "content_hash": "sha256:0899d3b6ed43a2d217265a252c0eb467f708154774d2b6839aaac9d40535abbe",
+      "doc_path": "source/PHY-2",
+      "file": "vibevm/vibespecs/source/PHY-2.md",
+      "heading": "PHY.2:10 - Architectural Rationale",
+      "line": 101,
+      "uri": "spec://ai.lev/fpf-think-phy/source/PHY-2#architectural-rationale"
+    },
+    {
+      "anchor": "sota-echoing",
+      "content_hash": "sha256:c2b201be7264a1880b5599874905590c3ef0fd2005c1dedbe09e5c88c137509a",
+      "doc_path": "source/PHY-2",
+      "file": "vibevm/vibespecs/source/PHY-2.md",
+      "heading": "PHY.2:11 - SoTA-Echoing",
+      "line": 109,
+      "uri": "spec://ai.lev/fpf-think-phy/source/PHY-2#sota-echoing"
+    },
+    {
+      "anchor": "end",
+      "content_hash": "sha256:a45f978a90b0a43836a596e878b23e1a96101c29736cd65f7884bb9400dd9e84",
+      "doc_path": "source/PHY-2",
+      "file": "vibevm/vibespecs/source/PHY-2.md",
+      "heading": "PHY.2:End",
+      "line": 124,
+      "uri": "spec://ai.lev/fpf-think-phy/source/PHY-2#end"
+    },
+    {
+      "anchor": "depth",
+      "content_hash": "sha256:bddadb2fcf655ee15884c4bd24444253a84e023748525dd5f6ec57bb7c883f16",
+      "doc_path": "source/PHY-3",
+      "file": "vibevm/vibespecs/source/PHY-3.md",
+      "heading": "PHY.3 - Derive a Physical Limit from Permitted Transformations: depth",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-think-phy/source/PHY-3#depth"
+    },
+    {
+      "anchor": "archetypal-grounding",
+      "content_hash": "sha256:c5f7ba7cb3c46ce93aec90b3d766a21de879101722fe86dada4e385ed9442f86",
+      "doc_path": "source/PHY-3",
+      "file": "vibevm/vibespecs/source/PHY-3.md",
+      "heading": "PHY.3:5 - Archetypal Grounding",
+      "line": 7,
+      "uri": "spec://ai.lev/fpf-think-phy/source/PHY-3#archetypal-grounding"
+    },
+    {
+      "anchor": "bound-a-proposed-engine-without-designing-its-mechanism",
+      "content_hash": "sha256:bb53bc3ce0010b23c58386433eff4f3977c02d510107a95d1bfc0c5eed9ab07f",
+      "doc_path": "source/PHY-3",
+      "file": "vibevm/vibespecs/source/PHY-3.md",
+      "heading": "PHY.3:5.1 - Bound a proposed engine without designing its mechanism",
+      "line": 9,
+      "uri": "spec://ai.lev/fpf-think-phy/source/PHY-3#bound-a-proposed-engine-without-designing-its-mechanism"
+    },
+    {
+      "anchor": "test-copying-across-inputs-while-allowing-auxiliary-outputs",
+      "content_hash": "sha256:d0cadf95efde5cf8f1dfd2da848954f3f33789acb979c77c56ca43e94113e410",
+      "doc_path": "source/PHY-3",
+      "file": "vibevm/vibespecs/source/PHY-3.md",
+      "heading": "PHY.3:5.2 - Test copying across inputs while allowing auxiliary outputs",
+      "line": 41,
+      "uri": "spec://ai.lev/fpf-think-phy/source/PHY-3#test-copying-across-inputs-while-allowing-auxiliary-outputs"
+    },
+    {
+      "anchor": "bias-annotation",
+      "content_hash": "sha256:06be4d867d84c4e807e485c8e47c48c1d2216c2a9c5b815881dd536ac76cacae",
+      "doc_path": "source/PHY-3",
+      "file": "vibevm/vibespecs/source/PHY-3.md",
+      "heading": "PHY.3:6 - Bias-Annotation",
+      "line": 70,
+      "uri": "spec://ai.lev/fpf-think-phy/source/PHY-3#bias-annotation"
+    },
+    {
+      "anchor": "common-anti-patterns-and-how-to-avoid-them",
+      "content_hash": "sha256:f51033268688093b99f10f6c7bd150f978562ec782c35606d56052daa78f7319",
+      "doc_path": "source/PHY-3",
+      "file": "vibevm/vibespecs/source/PHY-3.md",
+      "heading": "PHY.3:8 - Common Anti-Patterns and How to Avoid Them",
+      "line": 76,
+      "uri": "spec://ai.lev/fpf-think-phy/source/PHY-3#common-anti-patterns-and-how-to-avoid-them"
+    },
+    {
+      "anchor": "architectural-rationale",
+      "content_hash": "sha256:4dc4f1db6e8c499b3da3e93539d95ea523467378926304836ddf3b16d369c40b",
+      "doc_path": "source/PHY-3",
+      "file": "vibevm/vibespecs/source/PHY-3.md",
+      "heading": "PHY.3:10 - Architectural Rationale",
+      "line": 86,
+      "uri": "spec://ai.lev/fpf-think-phy/source/PHY-3#architectural-rationale"
+    },
+    {
+      "anchor": "sota-echoing",
+      "content_hash": "sha256:8e6a4729c24de603809409bc3949d07d33f332b9571f23ca1946b4d8a33e2b2d",
+      "doc_path": "source/PHY-3",
+      "file": "vibevm/vibespecs/source/PHY-3.md",
+      "heading": "PHY.3:11 - SoTA-Echoing",
+      "line": 94,
+      "uri": "spec://ai.lev/fpf-think-phy/source/PHY-3#sota-echoing"
+    },
+    {
+      "anchor": "end",
+      "content_hash": "sha256:58953863faafedd432753c0b5e8d1b6fa8d5573dbb580f77c5adce83bb6e92d3",
+      "doc_path": "source/PHY-3",
+      "file": "vibevm/vibespecs/source/PHY-3.md",
+      "heading": "PHY.3:End",
+      "line": 107,
+      "uri": "spec://ai.lev/fpf-think-phy/source/PHY-3#end"
+    },
+    {
+      "anchor": "depth",
+      "content_hash": "sha256:bca8f1caafd4cfcb03965beb7dc8b62e8b60561ba3558dc9c689d95a3b4537bd",
+      "doc_path": "source/PHY-4",
+      "file": "vibevm/vibespecs/source/PHY-4.md",
+      "heading": "PHY.4 - Constrain an Unknown Physical Law by Transforming the Situation: depth",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-think-phy/source/PHY-4#depth"
+    },
+    {
+      "anchor": "archetypal-grounding",
+      "content_hash": "sha256:09c24d97b39c2b9c288dacd9898dd81e65b39851c9405e979b450498aac52ed3",
+      "doc_path": "source/PHY-4",
+      "file": "vibevm/vibespecs/source/PHY-4.md",
+      "heading": "PHY.4:5 - Archetypal Grounding",
+      "line": 7,
+      "uri": "spec://ai.lev/fpf-think-phy/source/PHY-4#archetypal-grounding"
+    },
+    {
+      "anchor": "restrict-an-unknown-resistive-force",
+      "content_hash": "sha256:306b26b4715b054cfb83838f46e7872a3cd7cef12867600c0b183a6187a412d7",
+      "doc_path": "source/PHY-4",
+      "file": "vibevm/vibespecs/source/PHY-4.md",
+      "heading": "PHY.4:5.1 - Restrict an unknown resistive force",
+      "line": 11,
+      "uri": "spec://ai.lev/fpf-think-phy/source/PHY-4#restrict-an-unknown-resistive-force"
+    },
+    {
+      "anchor": "add-a-physical-direction",
+      "content_hash": "sha256:6ae3f6489b7b5b2dc97ac12953baf0754fcbb3a245a0a784cd678a792a5ca557",
+      "doc_path": "source/PHY-4",
+      "file": "vibevm/vibespecs/source/PHY-4.md",
+      "heading": "PHY.4:5.2 - Add a physical direction",
+      "line": 29,
+      "uri": "spec://ai.lev/fpf-think-phy/source/PHY-4#add-a-physical-direction"
+    },
+    {
+      "anchor": "exchange-two-participants",
+      "content_hash": "sha256:5b6c87ddaf7b0d208ab83ea7df666996b8a489a0e11fca324df94f537125a507",
+      "doc_path": "source/PHY-4",
+      "file": "vibevm/vibespecs/source/PHY-4.md",
+      "heading": "PHY.4:5.3 - Exchange two participants",
+      "line": 47,
+      "uri": "spec://ai.lev/fpf-think-phy/source/PHY-4#exchange-two-participants"
+    },
+    {
+      "anchor": "bias-annotation",
+      "content_hash": "sha256:68e3a13ecb3426ea5e4da372476246dd119751ac99065581ebf4b6c6bc360537",
+      "doc_path": "source/PHY-4",
+      "file": "vibevm/vibespecs/source/PHY-4.md",
+      "heading": "PHY.4:6 - Bias-Annotation",
+      "line": 63,
+      "uri": "spec://ai.lev/fpf-think-phy/source/PHY-4#bias-annotation"
+    },
+    {
+      "anchor": "common-anti-patterns-and-how-to-avoid-them",
+      "content_hash": "sha256:01c240500bcd0bcd73e8e664d009f8389416dfcb1f5045b78a62043c856a7663",
+      "doc_path": "source/PHY-4",
+      "file": "vibevm/vibespecs/source/PHY-4.md",
+      "heading": "PHY.4:8 - Common Anti-Patterns and How to Avoid Them",
+      "line": 69,
+      "uri": "spec://ai.lev/fpf-think-phy/source/PHY-4#common-anti-patterns-and-how-to-avoid-them"
+    },
+    {
+      "anchor": "architectural-rationale",
+      "content_hash": "sha256:827bd0f70bca063303154ea880d72c3acd72c55c6845272357321224030a102a",
+      "doc_path": "source/PHY-4",
+      "file": "vibevm/vibespecs/source/PHY-4.md",
+      "heading": "PHY.4:10 - Architectural Rationale",
+      "line": 79,
+      "uri": "spec://ai.lev/fpf-think-phy/source/PHY-4#architectural-rationale"
+    },
+    {
+      "anchor": "sota-echoing",
+      "content_hash": "sha256:567b25bcc624ef8c9cd3bc997583787301e09f953e87e824bcfde4bd05670f10",
+      "doc_path": "source/PHY-4",
+      "file": "vibevm/vibespecs/source/PHY-4.md",
+      "heading": "PHY.4:11 - SoTA-Echoing",
+      "line": 87,
+      "uri": "spec://ai.lev/fpf-think-phy/source/PHY-4#sota-echoing"
+    },
+    {
+      "anchor": "end",
+      "content_hash": "sha256:c0d19b7fab0b524d3c7a94892804ab2d6cb60326c66c3abf1864bac0c7ca4a32",
+      "doc_path": "source/PHY-4",
+      "file": "vibevm/vibespecs/source/PHY-4.md",
+      "heading": "PHY.4:End",
+      "line": 98,
+      "uri": "spec://ai.lev/fpf-think-phy/source/PHY-4#end"
+    },
+    {
+      "anchor": "depth",
+      "content_hash": "sha256:ba5a99e3ed1f7d21aa6800680517de9dbc11fd272b77229dc0f815885d3ab176",
+      "doc_path": "source/PHY-5",
+      "file": "vibevm/vibespecs/source/PHY-5.md",
+      "heading": "PHY.5 - Choose an Effective Physical Description by Scales and Couplings: depth",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-think-phy/source/PHY-5#depth"
+    },
+    {
+      "anchor": "archetypal-grounding",
+      "content_hash": "sha256:81ad8be0bbf85af82dcb151a86dba06c4aa428524c7105db1cef4b9d828915db",
+      "doc_path": "source/PHY-5",
+      "file": "vibevm/vibespecs/source/PHY-5.md",
+      "heading": "PHY.5:5 - Archetypal Grounding",
+      "line": 7,
+      "uri": "spec://ai.lev/fpf-think-phy/source/PHY-5#archetypal-grounding"
+    },
+    {
+      "anchor": "keep-a-motor-s-torque-while-eliminating-fast-current-dynamics",
+      "content_hash": "sha256:56c9f74925b08573425653484289f487e2d8823967187dd7c846d78bdb2169ea",
+      "doc_path": "source/PHY-5",
+      "file": "vibevm/vibespecs/source/PHY-5.md",
+      "heading": "PHY.5:5.1 - Keep a motor's torque while eliminating fast current dynamics",
+      "line": 9,
+      "uri": "spec://ai.lev/fpf-think-phy/source/PHY-5#keep-a-motor-s-torque-while-eliminating-fast-current-dynamics"
+    },
+    {
+      "anchor": "decide-when-a-chain-can-be-treated-as-a-continuous-medium",
+      "content_hash": "sha256:d4ae316a661ab0b25a31d46aca24a82f3955dfdffc8261fe1cb37608da06e9e6",
+      "doc_path": "source/PHY-5",
+      "file": "vibevm/vibespecs/source/PHY-5.md",
+      "heading": "PHY.5:5.2 - Decide when a chain can be treated as a continuous medium",
+      "line": 45,
+      "uri": "spec://ai.lev/fpf-think-phy/source/PHY-5#decide-when-a-chain-can-be-treated-as-a-continuous-medium"
+    },
+    {
+      "anchor": "retain-fluctuations-after-fast-velocity-has-relaxed",
+      "content_hash": "sha256:12da7ff3594d8fcc0ca264ad4b647fbadea581771c54802b64cbb56b07b0a4c7",
+      "doc_path": "source/PHY-5",
+      "file": "vibevm/vibespecs/source/PHY-5.md",
+      "heading": "PHY.5:5.3 - Retain fluctuations after fast velocity has relaxed",
+      "line": 63,
+      "uri": "spec://ai.lev/fpf-think-phy/source/PHY-5#retain-fluctuations-after-fast-velocity-has-relaxed"
+    },
+    {
+      "anchor": "bias-annotation",
+      "content_hash": "sha256:3bb2a587a8c16669d87c68579cb9f8af5d1046741990ad70f67c84611ca3a735",
+      "doc_path": "source/PHY-5",
+      "file": "vibevm/vibespecs/source/PHY-5.md",
+      "heading": "PHY.5:6 - Bias-Annotation",
+      "line": 77,
+      "uri": "spec://ai.lev/fpf-think-phy/source/PHY-5#bias-annotation"
+    },
+    {
+      "anchor": "common-anti-patterns-and-how-to-avoid-them",
+      "content_hash": "sha256:0962515b97f6ff17795cac7bb6476fc71a076372cced2a991f36db5a0ade8494",
+      "doc_path": "source/PHY-5",
+      "file": "vibevm/vibespecs/source/PHY-5.md",
+      "heading": "PHY.5:8 - Common Anti-Patterns and How to Avoid Them",
+      "line": 83,
+      "uri": "spec://ai.lev/fpf-think-phy/source/PHY-5#common-anti-patterns-and-how-to-avoid-them"
+    },
+    {
+      "anchor": "architectural-rationale",
+      "content_hash": "sha256:6e53165c35107c174b1777794870f5e4998dc1bada8635f4b864a1b6d4b7f855",
+      "doc_path": "source/PHY-5",
+      "file": "vibevm/vibespecs/source/PHY-5.md",
+      "heading": "PHY.5:10 - Architectural Rationale",
+      "line": 93,
+      "uri": "spec://ai.lev/fpf-think-phy/source/PHY-5#architectural-rationale"
+    },
+    {
+      "anchor": "sota-echoing",
+      "content_hash": "sha256:64cde65e12ccfdf625d7cb7973f5af9df033c04f44c246b6b06a9e32d82439ee",
+      "doc_path": "source/PHY-5",
+      "file": "vibevm/vibespecs/source/PHY-5.md",
+      "heading": "PHY.5:11 - SoTA-Echoing",
+      "line": 101,
+      "uri": "spec://ai.lev/fpf-think-phy/source/PHY-5#sota-echoing"
+    },
+    {
+      "anchor": "end",
+      "content_hash": "sha256:7ab8a85b244fd95aedce1cb2ec61f3ee0c71cffba82675b7c94c539f5d0c606b",
+      "doc_path": "source/PHY-5",
+      "file": "vibevm/vibespecs/source/PHY-5.md",
+      "heading": "PHY.5:End",
+      "line": 112,
+      "uri": "spec://ai.lev/fpf-think-phy/source/PHY-5#end"
+    },
+    {
+      "anchor": "depth",
+      "content_hash": "sha256:208dabf8308cf4684102303e11b630629d0a8f9c64a9ba74fba7b90f082bbac4",
+      "doc_path": "source/PHY-6",
+      "file": "vibevm/vibespecs/source/PHY-6.md",
+      "heading": "PHY.6 - Construct Physical Evolution from Balances and Response Laws: depth",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-think-phy/source/PHY-6#depth"
+    },
+    {
+      "anchor": "archetypal-grounding",
+      "content_hash": "sha256:4e9b565c32f51c981d644cdc5ae1babeaaf42fd2e8dcce4ad889d2efdd6fb6f9",
+      "doc_path": "source/PHY-6",
+      "file": "vibevm/vibespecs/source/PHY-6.md",
+      "heading": "PHY.6:5 - Archetypal Grounding",
+      "line": 7,
+      "uri": "spec://ai.lev/fpf-think-phy/source/PHY-6#archetypal-grounding"
+    },
+    {
+      "anchor": "derive-coupled-motion-and-identify-where-mechanical-energy-goes",
+      "content_hash": "sha256:0fe7b2e008d13ae1dc80b585852db7a23bfa22e81845a84acbbc8590af0c4bc4",
+      "doc_path": "source/PHY-6",
+      "file": "vibevm/vibespecs/source/PHY-6.md",
+      "heading": "PHY.6:5.1 - Derive coupled motion and identify where mechanical energy goes",
+      "line": 9,
+      "uri": "spec://ai.lev/fpf-think-phy/source/PHY-6#derive-coupled-motion-and-identify-where-mechanical-energy-goes"
+    },
+    {
+      "anchor": "obtain-a-total-without-solving-its-spatial-distribution",
+      "content_hash": "sha256:7e17f6f2d7a36013f79ce969b78d68cb205f37217b7380a1ed192ebff0b35bbf",
+      "doc_path": "source/PHY-6",
+      "file": "vibevm/vibespecs/source/PHY-6.md",
+      "heading": "PHY.6:5.2 - Obtain a total without solving its spatial distribution",
+      "line": 43,
+      "uri": "spec://ai.lev/fpf-think-phy/source/PHY-6#obtain-a-total-without-solving-its-spatial-distribution"
+    },
+    {
+      "anchor": "detect-an-incompatible-ideal-connection-before-attempting-a",
+      "content_hash": "sha256:3592c0b965855673871373b301a60db62903cc0f039b66142dad8537c8123f8f",
+      "doc_path": "source/PHY-6",
+      "file": "vibevm/vibespecs/source/PHY-6.md",
+      "heading": "PHY.6:5.3 - Detect an incompatible ideal connection before attempting a transient calculation",
+      "line": 65,
+      "uri": "spec://ai.lev/fpf-think-phy/source/PHY-6#detect-an-incompatible-ideal-connection-before-attempting-a"
+    },
+    {
+      "anchor": "bias-annotation",
+      "content_hash": "sha256:4ca760614365cef0320428f348cc3e4bab5b8b2e4496ca7bb192b6edc6b03aa0",
+      "doc_path": "source/PHY-6",
+      "file": "vibevm/vibespecs/source/PHY-6.md",
+      "heading": "PHY.6:6 - Bias-Annotation",
+      "line": 91,
+      "uri": "spec://ai.lev/fpf-think-phy/source/PHY-6#bias-annotation"
+    },
+    {
+      "anchor": "common-anti-patterns-and-how-to-avoid-them",
+      "content_hash": "sha256:8b0dec31da2ef9625ce384e6a7f9efdb555231206cfa3224ccce9085daa6a248",
+      "doc_path": "source/PHY-6",
+      "file": "vibevm/vibespecs/source/PHY-6.md",
+      "heading": "PHY.6:8 - Common Anti-Patterns and How to Avoid Them",
+      "line": 97,
+      "uri": "spec://ai.lev/fpf-think-phy/source/PHY-6#common-anti-patterns-and-how-to-avoid-them"
+    },
+    {
+      "anchor": "architectural-rationale",
+      "content_hash": "sha256:b51bafbbe35ec7dcef564421aac68e512da57d9d01bcf8a811a1687be7d00993",
+      "doc_path": "source/PHY-6",
+      "file": "vibevm/vibespecs/source/PHY-6.md",
+      "heading": "PHY.6:10 - Architectural Rationale",
+      "line": 108,
+      "uri": "spec://ai.lev/fpf-think-phy/source/PHY-6#architectural-rationale"
+    },
+    {
+      "anchor": "sota-echoing",
+      "content_hash": "sha256:63566f7b4bb997f43158d86db682a66855d5c5afdef32891627b9b830808f7ba",
+      "doc_path": "source/PHY-6",
+      "file": "vibevm/vibespecs/source/PHY-6.md",
+      "heading": "PHY.6:11 - SoTA-Echoing",
+      "line": 116,
+      "uri": "spec://ai.lev/fpf-think-phy/source/PHY-6#sota-echoing"
+    },
+    {
+      "anchor": "end",
+      "content_hash": "sha256:44845809bea3b8b37bb46494ba8614d0fc2a6f1ddc8bbfe68f9d25b111780dbc",
+      "doc_path": "source/PHY-6",
+      "file": "vibevm/vibespecs/source/PHY-6.md",
+      "heading": "PHY.6:End",
+      "line": 131,
+      "uri": "spec://ai.lev/fpf-think-phy/source/PHY-6#end"
+    },
+    {
+      "anchor": "depth",
+      "content_hash": "sha256:67acd0a3516c675b99cb62a7cd435581b71a82698302e8ff117422cd580e8f10",
+      "doc_path": "source/PHY-7",
+      "file": "vibevm/vibespecs/source/PHY-7.md",
+      "heading": "PHY.7 - Obtain Motion from a Physical Variational Principle: depth",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-think-phy/source/PHY-7#depth"
+    },
+    {
+      "anchor": "archetypal-grounding",
+      "content_hash": "sha256:0bfedb0e040b2d86f619b5a45e154bc9fecab542ff307de9b29e6c95d0d72329",
+      "doc_path": "source/PHY-7",
+      "file": "vibevm/vibespecs/source/PHY-7.md",
+      "heading": "PHY.7:5 - Archetypal Grounding",
+      "line": 7,
+      "uri": "spec://ai.lev/fpf-think-phy/source/PHY-7#archetypal-grounding"
+    },
+    {
+      "anchor": "represent-a-constraint-then-move-its-support",
+      "content_hash": "sha256:87751a80b0f463456988a2e98590261d5991b68a0b8d11a0f62d70853d2b5636",
+      "doc_path": "source/PHY-7",
+      "file": "vibevm/vibespecs/source/PHY-7.md",
+      "heading": "PHY.7:5.1 - Represent a constraint, then move its support",
+      "line": 9,
+      "uri": "spec://ai.lev/fpf-think-phy/source/PHY-7#represent-a-constraint-then-move-its-support"
+    },
+    {
+      "anchor": "recover-an-interaction-that-energy-alone-would-miss",
+      "content_hash": "sha256:0554b61e93d54e979d7b47b8aa2287dbd645b879ea119480d504f8ffe5c3638f",
+      "doc_path": "source/PHY-7",
+      "file": "vibevm/vibespecs/source/PHY-7.md",
+      "heading": "PHY.7:5.2 - Recover an interaction that energy alone would miss",
+      "line": 39,
+      "uri": "spec://ai.lev/fpf-think-phy/source/PHY-7#recover-an-interaction-that-energy-alone-would-miss"
+    },
+    {
+      "anchor": "derive-an-interior-law-and-change-the-endpoint-condition",
+      "content_hash": "sha256:66546341733ac7413c2112e7411bc90402a9e4544eda757b809773b65f420a53",
+      "doc_path": "source/PHY-7",
+      "file": "vibevm/vibespecs/source/PHY-7.md",
+      "heading": "PHY.7:5.3 - Derive an interior law and change the endpoint condition",
+      "line": 61,
+      "uri": "spec://ai.lev/fpf-think-phy/source/PHY-7#derive-an-interior-law-and-change-the-endpoint-condition"
+    },
+    {
+      "anchor": "bias-annotation",
+      "content_hash": "sha256:f2b6bf94a04a21478cd585299b960b43485ff946a09ceb5c5aefe9435d48fbc0",
+      "doc_path": "source/PHY-7",
+      "file": "vibevm/vibespecs/source/PHY-7.md",
+      "heading": "PHY.7:6 - Bias-Annotation",
+      "line": 79,
+      "uri": "spec://ai.lev/fpf-think-phy/source/PHY-7#bias-annotation"
+    },
+    {
+      "anchor": "common-anti-patterns-and-how-to-avoid-them",
+      "content_hash": "sha256:865d9a46437a1511511aab811692b7b3e1a5c4ec925f738c8af161c153810c3d",
+      "doc_path": "source/PHY-7",
+      "file": "vibevm/vibespecs/source/PHY-7.md",
+      "heading": "PHY.7:8 - Common Anti-Patterns and How to Avoid Them",
+      "line": 85,
+      "uri": "spec://ai.lev/fpf-think-phy/source/PHY-7#common-anti-patterns-and-how-to-avoid-them"
+    },
+    {
+      "anchor": "architectural-rationale",
+      "content_hash": "sha256:cd869c90e48a205190354e05a63a39aee1321ebedcc40a621b6842a9beb98e37",
+      "doc_path": "source/PHY-7",
+      "file": "vibevm/vibespecs/source/PHY-7.md",
+      "heading": "PHY.7:10 - Architectural Rationale",
+      "line": 96,
+      "uri": "spec://ai.lev/fpf-think-phy/source/PHY-7#architectural-rationale"
+    },
+    {
+      "anchor": "sota-echoing",
+      "content_hash": "sha256:ffb3b7cd2085d7cd12aa18ef8c0b8986ab2f1f4ad3f1292b011ae0416bfab1dd",
+      "doc_path": "source/PHY-7",
+      "file": "vibevm/vibespecs/source/PHY-7.md",
+      "heading": "PHY.7:11 - SoTA-Echoing",
+      "line": 102,
+      "uri": "spec://ai.lev/fpf-think-phy/source/PHY-7#sota-echoing"
+    },
+    {
+      "anchor": "end",
+      "content_hash": "sha256:2a7988bd9996f2bbed51d03caeb115246a5851c42059c55e8a46d61e49ab6872",
+      "doc_path": "source/PHY-7",
+      "file": "vibevm/vibespecs/source/PHY-7.md",
+      "heading": "PHY.7:End",
+      "line": 115,
+      "uri": "spec://ai.lev/fpf-think-phy/source/PHY-7#end"
+    },
+    {
+      "anchor": "depth",
+      "content_hash": "sha256:afd12a5c1cc993482a7426a163588c096dd3380487e69952c827b52cf4b1a89d",
+      "doc_path": "source/PHY-8",
+      "file": "vibevm/vibespecs/source/PHY-8.md",
+      "heading": "PHY.8 - Infer Macroscopic Physical Behavior from Microscopic Alternatives: depth",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-think-phy/source/PHY-8#depth"
+    },
+    {
+      "anchor": "archetypal-grounding",
+      "content_hash": "sha256:fae7f41a6f4c079eae556c448314cd5994ff59ff389c1664dde57418db81326b",
+      "doc_path": "source/PHY-8",
+      "file": "vibevm/vibespecs/source/PHY-8.md",
+      "heading": "PHY.8:5 - Archetypal Grounding",
+      "line": 7,
+      "uri": "spec://ai.lev/fpf-think-phy/source/PHY-8#archetypal-grounding"
+    },
+    {
+      "anchor": "predict-an-excited-population-from-a-reservoir-argument",
+      "content_hash": "sha256:bef399254d6cb6e5cb23680374b0326ea9f32700f33f55662631f993fbcc28fb",
+      "doc_path": "source/PHY-8",
+      "file": "vibevm/vibespecs/source/PHY-8.md",
+      "heading": "PHY.8:5.1 - Predict an excited population from a reservoir argument",
+      "line": 9,
+      "uri": "spec://ai.lev/fpf-think-phy/source/PHY-8#predict-an-excited-population-from-a-reservoir-argument"
+    },
+    {
+      "anchor": "recover-collective-fluctuations-from-a-prepared-joint-state",
+      "content_hash": "sha256:1c677d4fbf93827c8ff4e9663356da50a90d59957f06642cc52ab99c9eece263",
+      "doc_path": "source/PHY-8",
+      "file": "vibevm/vibespecs/source/PHY-8.md",
+      "heading": "PHY.8:5.2 - Recover collective fluctuations from a prepared joint state",
+      "line": 31,
+      "uri": "spec://ai.lev/fpf-think-phy/source/PHY-8#recover-collective-fluctuations-from-a-prepared-joint-state"
+    },
+    {
+      "anchor": "derive-transport-from-persistent-microscopic-motion",
+      "content_hash": "sha256:4b42881578a34462983449f0e4e4a6f6824534aab2e7473fbaaf831187b55762",
+      "doc_path": "source/PHY-8",
+      "file": "vibevm/vibespecs/source/PHY-8.md",
+      "heading": "PHY.8:5.3 - Derive transport from persistent microscopic motion",
+      "line": 51,
+      "uri": "spec://ai.lev/fpf-think-phy/source/PHY-8#derive-transport-from-persistent-microscopic-motion"
+    },
+    {
+      "anchor": "bias-annotation",
+      "content_hash": "sha256:0ed728283c5129e71fceb5c4f75fe64529a4242f308f94d978b8ffdfc019e62f",
+      "doc_path": "source/PHY-8",
+      "file": "vibevm/vibespecs/source/PHY-8.md",
+      "heading": "PHY.8:6 - Bias-Annotation",
+      "line": 83,
+      "uri": "spec://ai.lev/fpf-think-phy/source/PHY-8#bias-annotation"
+    },
+    {
+      "anchor": "common-anti-patterns-and-how-to-avoid-them",
+      "content_hash": "sha256:ac69c4895b63f2c9d2ac90b9a8b4d67d7a813f51e53cfded5d6295f25bbcab1a",
+      "doc_path": "source/PHY-8",
+      "file": "vibevm/vibespecs/source/PHY-8.md",
+      "heading": "PHY.8:8 - Common Anti-Patterns and How to Avoid Them",
+      "line": 89,
+      "uri": "spec://ai.lev/fpf-think-phy/source/PHY-8#common-anti-patterns-and-how-to-avoid-them"
+    },
+    {
+      "anchor": "architectural-rationale",
+      "content_hash": "sha256:3272021b34cb01fc446fc372791fb61312f55fed54368bb219e4c2a587cb8881",
+      "doc_path": "source/PHY-8",
+      "file": "vibevm/vibespecs/source/PHY-8.md",
+      "heading": "PHY.8:10 - Architectural Rationale",
+      "line": 100,
+      "uri": "spec://ai.lev/fpf-think-phy/source/PHY-8#architectural-rationale"
+    },
+    {
+      "anchor": "sota-echoing",
+      "content_hash": "sha256:77fff1038dc3cb95f666a2794c49cbfecc888ab58150d25fcd1edae070c6daca",
+      "doc_path": "source/PHY-8",
+      "file": "vibevm/vibespecs/source/PHY-8.md",
+      "heading": "PHY.8:11 - SoTA-Echoing",
+      "line": 108,
+      "uri": "spec://ai.lev/fpf-think-phy/source/PHY-8#sota-echoing"
+    },
+    {
+      "anchor": "end",
+      "content_hash": "sha256:cd71c40db43d28e7faa1417b4dcdd67d088280a62234816af177b8152173c76a",
+      "doc_path": "source/PHY-8",
+      "file": "vibevm/vibespecs/source/PHY-8.md",
+      "heading": "PHY.8:End",
+      "line": 121,
+      "uri": "spec://ai.lev/fpf-think-phy/source/PHY-8#end"
+    },
+    {
+      "anchor": "depth",
+      "content_hash": "sha256:baf83394cf4f05c802a092f3fd3332d82b2adb86f966fd4527b941e6383a6635",
+      "doc_path": "source/PHY-9",
+      "file": "vibevm/vibespecs/source/PHY-9.md",
+      "heading": "PHY.9 - Construct a Measuring Interaction for a Physical Distinction: depth",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-think-phy/source/PHY-9#depth"
+    },
+    {
+      "anchor": "archetypal-grounding",
+      "content_hash": "sha256:f90b3c24ce4d71c13b6de2a2f9f6f7e9832ac29e7d1e4beb4b7247d5a4b784b3",
+      "doc_path": "source/PHY-9",
+      "file": "vibevm/vibespecs/source/PHY-9.md",
+      "heading": "PHY.9:5 - Archetypal Grounding",
+      "line": 7,
+      "uri": "spec://ai.lev/fpf-think-phy/source/PHY-9#archetypal-grounding"
+    },
+    {
+      "anchor": "make-mass-affect-the-observation",
+      "content_hash": "sha256:ef6fc77a43e31774712f7aadfc6c97bc054486a1953aae5210bc117bd246a8c5",
+      "doc_path": "source/PHY-9",
+      "file": "vibevm/vibespecs/source/PHY-9.md",
+      "heading": "PHY.9:5.1 - Make mass affect the observation",
+      "line": 9,
+      "uri": "spec://ai.lev/fpf-think-phy/source/PHY-9#make-mass-affect-the-observation"
+    },
+    {
+      "anchor": "separate-pressure-from-the-probe-s-surface-force",
+      "content_hash": "sha256:589bb1ec1329a5e691abb12131c0b3c9c1534693c104fe6f2ccf573dba7f5ff8",
+      "doc_path": "source/PHY-9",
+      "file": "vibevm/vibespecs/source/PHY-9.md",
+      "heading": "PHY.9:5.2 - Separate pressure from the probe's surface force",
+      "line": 29,
+      "uri": "spec://ai.lev/fpf-think-phy/source/PHY-9#separate-pressure-from-the-probe-s-surface-force"
+    },
+    {
+      "anchor": "prepare-a-probe-whose-phase-difference-can-be-read",
+      "content_hash": "sha256:00e4806abc4e3c85ba8a96a4d0fc9aa1d55d47ff6767d13e6e6ef03be0a8fe30",
+      "doc_path": "source/PHY-9",
+      "file": "vibevm/vibespecs/source/PHY-9.md",
+      "heading": "PHY.9:5.3 - Prepare a probe whose phase difference can be read",
+      "line": 53,
+      "uri": "spec://ai.lev/fpf-think-phy/source/PHY-9#prepare-a-probe-whose-phase-difference-can-be-read"
+    },
+    {
+      "anchor": "bias-annotation",
+      "content_hash": "sha256:712222aef23c92e574e3ebaaf2f3fb9cb7964007a3e719a657da0ccfc37664d0",
+      "doc_path": "source/PHY-9",
+      "file": "vibevm/vibespecs/source/PHY-9.md",
+      "heading": "PHY.9:6 - Bias-Annotation",
+      "line": 71,
+      "uri": "spec://ai.lev/fpf-think-phy/source/PHY-9#bias-annotation"
+    },
+    {
+      "anchor": "common-anti-patterns-and-how-to-avoid-them",
+      "content_hash": "sha256:5361ae2f9c085f2eff3fdfd1051f28764a04fa12d849f02815a275069d5f2180",
+      "doc_path": "source/PHY-9",
+      "file": "vibevm/vibespecs/source/PHY-9.md",
+      "heading": "PHY.9:8 - Common Anti-Patterns and How to Avoid Them",
+      "line": 77,
+      "uri": "spec://ai.lev/fpf-think-phy/source/PHY-9#common-anti-patterns-and-how-to-avoid-them"
+    },
+    {
+      "anchor": "architectural-rationale",
+      "content_hash": "sha256:e64f0ca1bb7f26633e064892d920de439b3bb4ee50a7ff68eadb1f0408bb576a",
+      "doc_path": "source/PHY-9",
+      "file": "vibevm/vibespecs/source/PHY-9.md",
+      "heading": "PHY.9:10 - Architectural Rationale",
+      "line": 88,
+      "uri": "spec://ai.lev/fpf-think-phy/source/PHY-9#architectural-rationale"
+    },
+    {
+      "anchor": "sota-echoing",
+      "content_hash": "sha256:42c0921c170b68501dc974f463fd83f4d19df2b80f17fc6acf8f7713a0f0d73e",
+      "doc_path": "source/PHY-9",
+      "file": "vibevm/vibespecs/source/PHY-9.md",
+      "heading": "PHY.9:11 - SoTA-Echoing",
+      "line": 94,
+      "uri": "spec://ai.lev/fpf-think-phy/source/PHY-9#sota-echoing"
+    },
+    {
+      "anchor": "end",
+      "content_hash": "sha256:f5ef6b1656d6a8409b4bc3581051252a5482cfe34a48750cd47d8cc2e8a39875",
+      "doc_path": "source/PHY-9",
+      "file": "vibevm/vibespecs/source/PHY-9.md",
+      "heading": "PHY.9:End",
+      "line": 109,
+      "uri": "spec://ai.lev/fpf-think-phy/source/PHY-9#end"
+    }
+  ],
+  "suspects": [],
+  "warnings": []
+}
